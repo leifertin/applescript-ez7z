@@ -1,0 +1,70 @@
+/* Buttons & Menus */
+"GO_TEXT" = "Go";
+"NEXT_TEXT" = "Next";
+"CLOSE_TEXT" = "Close";
+"YES_TEXT" = "Yes";
+"LAME_TEXT" = "Lame";
+"OKAY_TEXT" = "Okay";
+"WEIRD_TEXT" = "Weird";
+"CANCEL_TEXT" = "Cancel";
+"DOWNLOAD_TEXT" = "Download";
+"SAVE_AS_TEXT" = "Save As...";
+"VIEW_SERIAL_NUMBER_TEXT" = "View Serial Number";
+"ENTER_SERIAL_NUMBER_TEXT" = "Enter Serial Number";
+"DELETE_TEXT" = "Delete";
+
+/* Dialogs */
+"ITEM1OF1TEXT" = "Item 1 of 1";
+"ITEMCOUNTTEXT" = "2 items";
+"MULTIPLEITEMVIEWERROR" = "You can only view one archive at a time.";
+"DROPMULTINONREG" = "To drop multiple items, you must register.";
+"DEFAULTDROPTEXT" = "Drop something here.";
+"CLEARREGWARNING" = "Are you sure you want to clear your registration?";
+"FORGOTITEM" = "You forgot to give an item to process.";
+"NOPASSPROVIDED" = "No password was provided.";
+"DELETEFROMRARERROR" = "Deleting files within an archive is not currently supported for RAR archives.";
+"MULTIPARERROR" = "Creating PARchives of multiple input items is not currently supported.";
+"TOGGLEUNRAR" = "Toggle the \"use unRAR\" checkbox in preferences.";
+"CREATEPROGRESS" = "Initializing progress bar...";
+"NONVIEWITEM" = "You can only view archives.";
+
+"FILECORRUPT" = "This archive is corrupt.";
+"PROCESSING_TEXT" = "Processing...";
+"IDLE_TEXT" = "Idle.";
+"WRONG_PASSWORD" = "Incorrect password.";
+"EZ7Z_SITEDOWN" = "The web server that Ez7z relies on to determine users is down.";
+"QUOTEFOUND_CURRRENT" = "
+
+This item has a quote in it so it won't be processed.
+Rename it and try again.";
+
+"OTHERTHAN7ZERROR" = "You need to register to create archives other than 7z.";
+"NOSPLITAMOUNT" = "No amount provided for splitting.";
+"ALREADYREG" = "You have already registered.";
+"MULTIDROPDOCK" = "The dock icon doesn't like multiple items being dropped onto it.";
+"NOTCONNECTED" = "Please connect your computer to the internet.";
+"UPDATESITEDOWN" = "The update-check site is down.";
+"RUNNINGNEWEST" = "You are running the newest version.";
+"DOWNLOADINGTODESKTOP" = "Downloading to the desktop...";
+"DOWNLOADINGTODESKTOP2" = "50% more to go.";
+"CURRENTVERSION" = "The current version is";
+"YOURVERSIONTEXT" = "You are running version";
+
+"ABOUTWINDOWTEXT" = "Created by Leif Heflin
+
+Powered by:
+ 7za 9.04 from web.me.com/krmathis
+ unRAR 3.6 © Alexander Roshal
+ PAR2 0.4 © Peter Brian Clements
+ bzip2 1.0.5 © Julian Seward
+
+Multiple items icon by Pierre Morin";
+"ABOUTTEXT1" = "you and the other";
+"ABOUTTEXT2" = "the";
+"ABOUTTEXT3" = "many";
+
+"QUOTESERROR0" = "Items with a ' can't be processed by Ez7z as of now...";
+"QUOTESERROR1" = " none of your items will be processed.";
+"QUOTESERROR2" = " items will not be processed.";
+"QUOTESERROR3" = " this item will not be processed.";
+"QUOTESERROR4" = " 1 item will not be processed.";

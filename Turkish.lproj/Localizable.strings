@@ -1,0 +1,72 @@
+/* Buttons & Menus */
+"GO_TEXT" = "Çalıştır";
+"NEXT_TEXT" = "Sonraki";
+"CLOSE_TEXT" = "Kapat";
+"YES_TEXT" = "Evet";
+"LAME_TEXT" = "Lame";
+"OKAY_TEXT" = "Tamam";
+"WEIRD_TEXT" = "Tuhaf";
+"CANCEL_TEXT" = "Vazgeç";
+"DOWNLOAD_TEXT" = "İndir";
+"SAVE_AS_TEXT" = "Save As...";
+"VIEW_SERIAL_NUMBER_TEXT" = "Lisans Numarasını Gör";
+"ENTER_SERIAL_NUMBER_TEXT" = "Lisans Numarasını Gir";
+"DELETE_TEXT" = "Arşivden";
+
+/* Dialogs */
+"ITEM1OF1TEXT" = " 1 öğenin 1 parçası";
+"ITEMCOUNTTEXT" = "2 öğe";
+"MULTIPLEITEMVIEWERROR" = "Aynı anda sadece bir arşiv görebilirsiniz.";
+"DROPMULTINONREG" = "Birden fazla öğeyi bırakabilmek için lisanslı kullanıcı olmalısınız.";
+"DEFAULTDROPTEXT" = "Buraya bırakın.";
+"CLEARREGWARNING" = "Lisans bilgilerinizi silmek istediğinizden emin misiniz?";
+"FORGOTITEM" = "İşlenecek bir öğe vermeyi unuttunuz.";
+"NOPASSPROVIDED" = "Şifre girilmedi.";
+"DELETEFROMRARERROR" = "Bir arşiv içindeki dosyaların silinmesi özelliği şimdilik RAR formatı için desteklenmiyor.";
+"MULTIPARERROR" = "Birden fazla öğe ile PARchives oluşturma işlemi şimdilik desteklenmiyor.";
+"TOGGLEUNRAR" = "Tercihlerde \"unRAR kullan\" seçeneğini değiştirin.";
+"CREATEPROGRESS" = "İlerleme çubuğu açılıyor...";
+"NONVIEWITEM" = "Sadece arşivleri görüntüleyebilirsiniz.";
+
+"FILECORRUPT" = "Bu arşiv bozuk.";
+"PROCESSING_TEXT" = "İşleniyor...";
+"IDLE_TEXT" = "Beklemede.";
+"WRONG_PASSWORD" = "Şifre hatalı.";
+"EZ7Z_SITEDOWN" = "Ez7z'nin kullanıcıları belirlemek için kullandığı web sunucusuna erişilemiyor.";
+"QUOTEFOUND_CURRRENT" = "
+
+Bu öğenin adında apostrof bulunduğu için işlenmeyecek.
+Adını değiştirip tekrar deneyin.";
+
+"OTHERTHAN7ZERROR" = "7z dışındaki formatlarda arşiv yaratmak için satın almalısınız.";
+"NOSPLITAMOUNT" = "Bölme için miktar belirtilmedi.";
+"ALREADYREG" = "Zaten lisanslı kullanıcısınız.";
+"MULTIDROPDOCK" = "Dock simgesi birden fazla öğenin üzerine bırakılmasından hoşlanmıyor.";
+"NOTCONNECTED" = "Lütfen bilgisayarınızı İnternet'e bağlayın.";
+"UPDATESITEDOWN" = "Güncelleştirme denetim sitesi devre dışı.";
+"RUNNINGNEWEST" = "En son sürümü kullanıyorsunuz.";
+"DOWNLOADINGTODESKTOP" = "Masaüstüne indiriliyor...";
+"DOWNLOADINGTODESKTOP2" = "%50 daha kaldı.";
+"CURRENTVERSION" = "Güncel sürüm";
+"YOURVERSIONTEXT" = "Kullandığınız sürüm";
+
+"ABOUTWINDOWTEXT" = "Leif Heflin tarafından yaratılmıştır
+
+Destekleyenler:
+ 7za 9.04 şuradan web.me.com/krmathis
+ unRAR 3.6 © Alexander Roshal
+ PAR2 0.4 © Peter Brian Clements
+ bzip2 1.0.5 © Julian Seward
+
+Yerelleştirme: Türkçe - Özgür Albayrak
+
+Çoklu öğe simgesini yapan Pierre Morin";
+"ABOUTTEXT1" = "siz ve diğer";
+"ABOUTTEXT2" = "the";
+"ABOUTTEXT3" = "çok";
+
+"QUOTESERROR0" = "An itibariyle ' karakteri bulunan öğeler Ez7z tarafından işlenemiyor...";
+"QUOTESERROR1" = " hiçbir öğe işlenmeyecek.";
+"QUOTESERROR2" = " öğeler işlenmeyecek.";
+"QUOTESERROR3" = " bu öğe işlenmeyecek.";
+"QUOTESERROR4" = " 1 öğe işlenmeyecek.";

@@ -1,0 +1,72 @@
+/* Buttons & Menus */
+"GO_TEXT" = "Ir";
+"NEXT_TEXT" = "Siguiente";
+"CLOSE_TEXT" = "Cerrar";
+"YES_TEXT" = "Si";
+"LAME_TEXT" = "Lame";
+"OKAY_TEXT" = "De acuerdo";
+"WEIRD_TEXT" = "Extraño";
+"CANCEL_TEXT" = "Cancelar";
+"DOWNLOAD_TEXT" = "Descargar";
+"SAVE_AS_TEXT" = "Guardar como...";
+"VIEW_SERIAL_NUMBER_TEXT" = "Ver numero de serie";
+"ENTER_SERIAL_NUMBER_TEXT" = "Introducir numero de serie";
+"DELETE_TEXT" = "Eliminar";
+
+/* Dialogs */
+"ITEM1OF1TEXT" = "Elemento 1 de 1";
+"ITEMCOUNTTEXT" = "2 elementos";
+"DROPMULTINONREG" = "Para arrastrar multiples elementos debes de ester registrado.";
+"MULTIPLEITEMVIEWERROR" = "Tan solo puedes ver un archive cada vez.";
+"DEFAULTDROPTEXT" = "Arrastra algo aquí.";
+"CLEARREGWARNING" = "¿Estas seguro de eliminar los datos de registro?";
+"FORGOTITEM" = "Te has olvidado de añadir un elemento para procesar.";
+"NOPASSPROVIDED" = "No se ha facilitado ninguna contraseña.";
+"DELETEFROMRARERROR" = "Borrar ficheros de un archivo RAR no esta soportado.";
+"NONVIEWITEM" = "Solo puedes visualizar archivos.";
+"TOGGLEUNRAR" = "Cambia la opción de \"utilizar unRAR\" en las preferencias.";
+"CREATEPROGRESS" = "Iniciando la barra de progreso...";
+
+"FILECORRUPT" = "Este archivo está corrupto";
+"PROCESSING_TEXT"  = "Procesando…";
+"IDLE_TEXT" = "En espera.";
+"WRONG_PASSWORD" = "Contraseña incorrecta.";
+"EZ7Z_SITEDOWN" = "El servidor que Ez7z utiliza para validar los usuarios no responde.";
+"QUOTEFOUND_CURRRENT" = "
+
+Este elemento contiene comillas, por lo que no se puede procesar.
+Cambia el nombre y vuelve a intentarlo.";
+
+"MULTIPARERROR" = "Crear archivos PAR de múltiples elementos no esta soportado.";
+"OTHERTHAN7ZERROR" = "Necesitas estar registrado para crear archivos de otro formato diferente a 7z.";
+"NOSPLITAMOUNT" = "No se ha especificado la cantidad para seccionar.";
+"ALREADYREG" = "Ya estas registrado.";
+"MULTIDROPDOCK" = "AL icono de la barra no le gusta que arrastren varios archivos en el.";
+"NOTCONNECTED" = "Por favor conecta tu computadora a internet.";
+"UPDATESITEDOWN" = "El sitio de actualizaciones parece caido.";
+"RUNNINGNEWEST" = "Tienes la versión mas nueva.";
+"DOWNLOADINGTODESKTOP" = "Descargando al escritorio...";
+"DOWNLOADINGTODESKTOP2" = "50% mas para acabar.";
+"CURRENTVERSION" = "La versión actual es";
+"YOURVERSIONTEXT" = "Tienes la version";
+"ABOUTWINDOWTEXT" = "Creado por Leif Heflin
+
+Incluyendo:
+ 7za 9.04 de web.me.com/krmathis
+ unRAR 3.6 © Alexander Roshal
+ PAR2 0.4 © Peter Brian Clements
+ bzip2 1.0.5 © Julian Seward
+
+Traducción: Alex Sancho
+ 
+Icono de multiples elementos por Pierre Morin";
+
+"ABOUTTEXT1" = "tu y los otros";
+"ABOUTTEXT2" = "el";
+"ABOUTTEXT3" = "mucho";
+
+"QUOTESERROR0" = "Por el momento los elementos con ' no pueden ser procesados por Ez7z...";
+"QUOTESERROR1" = " no se puede procesar ningún elemento de los que has proporcionado.";
+"QUOTESERROR2" = " los elementos no pueden procesarse.";
+"QUOTESERROR3" = " este elemento no puede ser procesado.";
+"QUOTESERROR4" = " 1 elemento no se puede procesar.";

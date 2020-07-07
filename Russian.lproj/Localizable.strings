@@ -1,0 +1,72 @@
+/* Buttons & Menus */
+"GO_TEXT" = "Начать";
+"NEXT_TEXT" = "Далее";
+"CLOSE_TEXT" = "Закрыть";
+"YES_TEXT" = "Да";
+"LAME_TEXT" = "Ошибка";
+"OKAY_TEXT" = "ОК";
+"WEIRD_TEXT" = "Фатальная ошибка";
+"CANCEL_TEXT" = "Отмена";
+"DOWNLOAD_TEXT" = "Скачать";
+"SAVE_AS_TEXT" = "Сохранить как...";
+"VIEW_SERIAL_NUMBER_TEXT" = "Просмотреть серийный номер";
+"ENTER_SERIAL_NUMBER_TEXT" = "Введите серийный номер";
+"DELETE_TEXT" = "Удалить";
+
+/* Dialogs */
+"ITEM1OF1TEXT" = "Объект 1 из 1";
+"ITEMCOUNTTEXT" = "2 объектов";
+"MULTIPLEITEMVIEWERROR" = "Вы можете просматривать одновременно только один архив.";
+"DROPMULTINONREG" = "Для использования нескольких объектов вам необходимо пройти регистрацию.";
+"DEFAULTDROPTEXT" = "Бросьте что-то сюда.";
+"CLEARREGWARNING" = "Вы уверены, что хотите отменить вашу регистрацию?";
+"FORGOTITEM" = "Вы забыли указать объект для работы.";
+"NOPASSPROVIDED" = "Пароль не был задан.";
+"DELETEFROMRARERROR" = "Удаление файлов из RAR архивов в настоящее время не поддерживается.";
+"MULTIPARERROR" = "Создание RAR архивов из нескольких объектов в настоящее время не поддерживается.";
+"TOGGLEUNRAR" = "Отметьте флажок \"использовать unRAR\" в настройках программы.";
+"CREATEPROGRESS" = "Инициализация индикатора выполнения...";
+"NONVIEWITEM" = "Вы можете только просматривать архивы.";
+
+"FILECORRUPT" = "Архив поврежден.";
+"PROCESSING_TEXT" = "Обработка...";
+"IDLE_TEXT" = "Свободен.";
+"WRONG_PASSWORD" = "Неверный пароль.";
+"EZ7Z_SITEDOWN" = "Веб-сервер, который используется для идентификации пользователей Ez7z, временно недоступен.";
+"QUOTEFOUND_CURRRENT" = "
+
+Объект содержит кавычки, и поэтому не может быть обработан.
+Переименуйте файл и попробуйте снова.";
+
+"OTHERTHAN7ZERROR" = "Вам необходимо пройти регистрацию для создания архивов, отличных от 7z.";
+"NOSPLITAMOUNT" = "Не указан размер разбивки.";
+"ALREADYREG" = "Вы уже зарегистрированны.";
+"MULTIDROPDOCK" = "Иконка в Dock не поддерживает возможность бросания на нее нескольких объектов.";
+"NOTCONNECTED" = "Подключите, пожалуйста, компьютер к Интернет.";
+"UPDATESITEDOWN" = "Сайт обновлений временно недоступен.";
+"RUNNINGNEWEST" = "Вы работаете с последней версией.";
+"DOWNLOADINGTODESKTOP" = "Загрузка на рабочий стол...";
+"DOWNLOADINGTODESKTOP2" = "Более 50% загружено.";
+"CURRENTVERSION" = "Текущая версия";
+"YOURVERSIONTEXT" = "Вы работаете с версией";
+
+"ABOUTWINDOWTEXT" = "Автор Leif Heflin
+
+При поддержке:
+ 7za 9.04 from web.me.com/krmathis
+ unRAR 3.6 © Alexander Roshal
+ PAR2 0.4 © Peter Brian Clements
+ bzip2 1.0.5 © Julian Seward
+
+Перевод: Yuriy Sakhno
+
+Дизайн иконок Pierre Morin";
+"ABOUTTEXT1" = "Вам и остальным";
+"ABOUTTEXT2" = "";
+"ABOUTTEXT3" = "более чем";
+
+"QUOTESERROR0" = "Объекты с ' не могут быть обработаны текущей версией Ez7z...";
+"QUOTESERROR1" = " ни один из объектов не был обработан.";
+"QUOTESERROR2" = " объекты не были обработаны.";
+"QUOTESERROR3" = " этот объект не был обработан.";
+"QUOTESERROR4" = " 1 объект не был обработан.";

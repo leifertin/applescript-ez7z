@@ -1,0 +1,72 @@
+/* Buttons & Menus */
+"GO_TEXT" = "前往";
+"NEXT_TEXT" = "下一個";
+"CLOSE_TEXT" = "關閉";
+"YES_TEXT" = "是";
+"LAME_TEXT" = "不完全的";
+"OKAY_TEXT" = "好";
+"WEIRD_TEXT" = "怪異的";
+"CANCEL_TEXT" = "取消";
+"DOWNLOAD_TEXT" = "下載";
+"SAVE_AS_TEXT" = "儲存為⋯";
+"VIEW_SERIAL_NUMBER_TEXT" = "檢視序號";
+"ENTER_SERIAL_NUMBER_TEXT" = "輸入序號";
+"DELETE_TEXT" = "刪除";
+
+/* Dialogs */
+"ITEM1OF1TEXT" = "1 / 1 個項目";
+"ITEMCOUNTTEXT" = "2 個項目";
+"MULTIPLEITEMVIEWERROR" = "您一次只能檢視一個封存檔。";
+"DROPMULTINONREG" = "若要拖放多個項目，您必須註冊。";
+"DEFAULTDROPTEXT" = "拖放一些東西到此處。";
+"CLEARREGWARNING" = "您確定要清除您的註冊嗎？";
+"FORGOTITEM" = "您忘記給個項目來作處理。";
+"NOPASSPROVIDED" = "沒有提供密碼。";
+"DELETEFROMRARERROR" = "刪除封存檔內的檔案目前是不支援 RAR 壓縮封存檔。";
+"MULTIPARERROR" = "目前不支援建立 PARchives 多個輸入項目。";
+"TOGGLEUNRAR" = "在偏好設定中切換 \"使用 unRAR\" 註記框。";
+"CREATEPROGRESS" = "正在初始化進度列⋯";
+"NONVIEWITEM" = "您只能檢視封存檔。";
+
+"FILECORRUPT" = "此封存檔已損壞。";
+"PROCESSING_TEXT" = "處理中⋯";
+"IDLE_TEXT" = "閒置。";
+"WRONG_PASSWORD" = "不正確的密碼。";
+"EZ7Z_SITEDOWN" = "信賴的 Ez7z 網站服務器確定使用者已關閉。";
+"QUOTEFOUND_CURRRENT" = "
+
+此項目有一引號在其中，所以將不會處理它。
+重新命名它並再試一次。";
+
+"OTHERTHAN7ZERROR" = "您需要註冊才能建立除了 7z 格式以外的封存檔。";
+"NOSPLITAMOUNT" = "不為分割提供數量。";
+"ALREADYREG" = "您已經註冊。";
+"MULTIDROPDOCK" = "此 dock 圖像不喜歡將多個項目拖放到它的上面。";
+"NOTCONNECTED" = "請您的電腦連接到網際網路。";
+"UPDATESITEDOWN" = "此更新檢查的網站已關閉。";
+"RUNNINGNEWEST" = "您正在執行的最新版本。";
+"DOWNLOADINGTODESKTOP" = "下載到桌面⋯";
+"DOWNLOADINGTODESKTOP2" = "50％ 以上。";
+"CURRENTVERSION" = "目前版本是";
+"YOURVERSIONTEXT" = "您正在執行的版本";
+
+"ABOUTWINDOWTEXT" = "創作者 Leif Heflin
+
+技術支援：
+ 7za 9.04 from web.me.com/krmathis
+ unRAR 3.6 © Alexander Roshal
+ PAR2 0.4 © Peter Brian Clements
+ bzip2 1.0.5 © Julian Seward
+
+翻譯者： David Tien
+
+多個項目圖像作者 Pierre Morin";
+"ABOUTTEXT1" = "您和其他人";
+"ABOUTTEXT2" = "此";
+"ABOUTTEXT3" = "許多";
+
+"QUOTESERROR0" = "截至目前為止，Ez7z 無法處理具有 ' 符號的項目⋯";
+"QUOTESERROR1" = " 您的項目將完全不予處理。";
+"QUOTESERROR2" = " 個項目將不予處理。";
+"QUOTESERROR3" = " 這個項目將不予處理。";
+"QUOTESERROR4" = " 1 個項目將不予處理。";

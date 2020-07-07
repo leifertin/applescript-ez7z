@@ -1,0 +1,71 @@
+/* Buttons & Menus */
+"GO_TEXT" = "Kör!";
+"NEXT_TEXT" = "Nästa";
+"CLOSE_TEXT" = "Stäng";
+"YES_TEXT" = "Ja";
+"LAME_TEXT" = "Mesigt";
+"OKAY_TEXT" = "Okej";
+"WEIRD_TEXT" = "Skumt";
+"CANCEL_TEXT" = "Avbryt";
+"DOWNLOAD_TEXT" = "Ladda ned";
+"SAVE_AS_TEXT" = "Spara Som...";
+"VIEW_SERIAL_NUMBER_TEXT" = "Se din registreringsnyckel";
+"ENTER_SERIAL_NUMBER_TEXT" = "Skriv in registreringsnyckeln";
+"DELETE_TEXT" = "Radera";
+
+/* Dialogs */
+"ITEM1OF1TEXT" = "Fil/mapp 1 av 1";
+"ITEMCOUNTTEXT" = "2 fils/mapps";
+"DROPMULTINONREG" = "Registrera för att kunna släppa fler än ett föremål åt gången.";
+"MULTIPLEITEMVIEWERROR" = "You can only view one archive at a time.";
+"DEFAULTDROPTEXT" = "SLÄPP NÅGOT HÄR!";
+"CLEARREGWARNING" = "Är du säker att du vill radera din registrering?";
+"FORGOTITEM" = "Du glömde hänvisa till en mapp/fil att hantera.";
+"NOPASSPROVIDED" = "Inget lösenord är angivet.";
+"DELETEFROMRARERROR" = "Att tabort föremål i ett RAR-arkiv stöds ännu inte.";
+"NONVIEWITEM" = "Du kan endast visa komprimerade filer.";
+"TOGGLEUNRAR" = "Akrivera \"Använd unRAR\" krysslådan i inställningar.";
+"CREATEPROGRESS" = "Laddar förloppsintikator...";
+
+"FILECORRUPT" = "Filen är skadad.";
+"PROCESSING_TEXT" = "Bearbetar...";
+"IDLE_TEXT" = "Inaktiv.";
+"WRONG_PASSWORD" = "Felaktigt lösenord.";
+"EZ7Z_SITEDOWN" = "The web server that Ez7z relies on to determine users is down.";
+"QUOTEFOUND_CURRRENT" = "
+
+This item has a quote in it so it won't be processed.
+Rename it and try again.";
+
+"MULTIPARERROR" = "Flera inmatningar stöds ännu inte för PARchives.";
+"OTHERTHAN7ZERROR" = "För att skapa andra arkiv än 7z, måste du registrera dig.";
+"NOSPLITAMOUNT" = "Inget värge angivet för att kunna dela upp fil.";
+"ALREADYREG" = "Du är redan registrerad.";
+"MULTIDROPDOCK" = "Det fungerar inte så bra att samtidigt släppa flera föremål på ikonen i Dockan.";
+"NOTCONNECTED" = "Vänligen anslut till internet.";
+"UPDATESITEDOWN" = "Uppdateringssidan är tillfälligt nere.";
+"RUNNINGNEWEST" = "Du har den senaste versionen!";
+"DOWNLOADINGTODESKTOP" = "Laddar nu ned till skrivbordet...";
+"DOWNLOADINGTODESKTOP2" = "50% återstår.";
+"CURRENTVERSION" = "Senaste versionen är";
+"YOURVERSIONTEXT" = "Din version är";
+"ABOUTWINDOWTEXT" = "Skapad av Leif Heflin
+
+Inkluderar teknik från:
+ 7za 9.04 from web.me.com/krmathis
+ unRAR 3.6 © Alexander Roshal
+ PAR2 0.4 © Peter Brian Clements
+ bzip2 1.0.5 © Julian Seward
+
+Översättning: Dawda Green
+
+Ett flertalet ikoner designat av Pierre Morin";
+"ABOUTTEXT1" = "du och de andra";
+"ABOUTTEXT2" = "de";
+"ABOUTTEXT3" = "många";
+
+"QUOTESERROR0" = "Filer/Mappar ned ett ' hanteras inte av Ez7z för tillfället...";
+"QUOTESERROR1" = " Ingen av dessa föremål kan bearbetas.";
+"QUOTESERROR2" = " Föremålen kommer ej bearbetas.";
+"QUOTESERROR3" = " Föremålet kommer en bearbetas.";
+"QUOTESERROR4" = " 1 av föremålen kommer ej bearbetas.";

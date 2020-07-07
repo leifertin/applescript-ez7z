@@ -1,0 +1,71 @@
+/* Buttons & Menus */
+"GO_TEXT" = "Kreni";
+"NEXT_TEXT" = "Naprijed";
+"CLOSE_TEXT" = "Zatvori";
+"YES_TEXT" = "Da";
+"LAME_TEXT" = "Jadno";
+"OKAY_TEXT" = "U Redu";
+"WEIRD_TEXT" = "Čudno";
+"CANCEL_TEXT" = "Odustani";
+"DOWNLOAD_TEXT" = "Preuzmi";
+"SAVE_AS_TEXT" = "Spremi Kao...";
+"VIEW_SERIAL_NUMBER_TEXT" = "Vidi Serijski Broj";
+"ENTER_SERIAL_NUMBER_TEXT" = "Unesi Serijski Broj";
+"DELETE_TEXT" = "Izbriši";
+
+/* Dialogs */
+"ITEM1OF1TEXT" = "Datoteka 1 od 1";
+"ITEMCOUNTTEXT" = "2 datoteke";
+"MULTIPLEITEMVIEWERROR" = "Odjednom možete vidjeti samo jednu datoteku.";
+"DROPMULTINONREG" = "Unos više datoteka moguć je samo nakon registriranja.";
+"DEFAULTDROPTEXT" = "Umetnite nešto ovdje.";
+"CLEARREGWARNING" = "Da li ste sigurni da želite izbrisati podatke o svome registriranju?";
+"FORGOTITEM" = "Zaboravili ste umetnuti datoteku.";
+"NOPASSPROVIDED" = "Niste upisali lozinku.";
+"DELETEFROMRARERROR" = "Brisanje datoteka unutar arhiva trenutno nije podržano u slučaju RAR formata.";
+"MULTIPARERROR" = "Stvaranje PARhiva koje se sastoje od više datoteka trenutno nije podržano.";
+"TOGGLEUNRAR" = "Izmjeni \"upotrijebi unRAR\" kvadratić u opcijama.";
+"NONVIEWITEM" = "Moguće je vidjeti samo arhive.";
+"CREATEPROGRESS" = "Započinjem prikaz napredovanja...";
+
+"FILECORRUPT" = "Ova arhiva je neispravna.";
+"PROCESSING_TEXT" = "Obrada...";
+"IDLE_TEXT" = "U mirovanju.";
+"WRONG_PASSWORD" = "Incorrect password.";
+"EZ7Z_SITEDOWN" = "The web server that Ez7z relies on to determine users is down.";
+"QUOTEFOUND_CURRRENT" = "
+
+This item has a quote in it so it won't be processed.
+Rename it and try again.";
+
+"OTHERTHAN7ZERROR" = "Ukoliko želite stvoriti datoteku drugačijeg formata od 7z, morate se registrirati.";
+"NOSPLITAMOUNT" = "Nije unešena veličina dijelova.";
+"ALREADYREG" = "Već ste registrirani.";
+"MULTIDROPDOCK" = "Ikona na Dock-u ne voli da se na nju stavlja više datoteka odjednom.";
+"NOTCONNECTED" = "Molimo spojiti kompjutor na Internet.";
+"UPDATESITEDOWN" = "Stranica za provjeru ažuriranja programa ne radi.";
+"RUNNINGNEWEST" = "Upotrebljavate najnoviju inačicu programa.";
+"DOWNLOADINGTODESKTOP" = "Preuzimanje na Desktop...";
+"DOWNLOADINGTODESKTOP2" = "Još 50%.";
+"CURRENTVERSION" = "Trenutna inačica je";
+"YOURVERSIONTEXT" = "Upotrebljavate inačicu programa";
+"ABOUTWINDOWTEXT" = "Programirao Leif Heflin
+
+Uz podršku:
+ 7za 9.04 sa web.me.com/krmathis
+ unRAR 3.6 © Alexander Roshal
+ PAR2 0.4 © Peter Brian Clements
+ bzip2 1.0.5 © Julian Seward
+
+Prijevod: Kristian Gaertner
+ 
+Multiple items icon by Pierre Morin";
+"ABOUTTEXT1" = "you and the other";
+"ABOUTTEXT2" = "the";
+"ABOUTTEXT3" = "many";
+
+"QUOTESERROR0" = "Datoteke koje sadrže ' ne mogu biti procesirane, za sada...";
+"QUOTESERROR1" = " Nijedna Vaša datoteka neće biti procesirana.";
+"QUOTESERROR2" = " Datoteke neće biti procesirane.";
+"QUOTESERROR3" = " Ova datoteka neće biti procesirana.";
+"QUOTESERROR4" = " 1 datoteka neće biti procesirana..";

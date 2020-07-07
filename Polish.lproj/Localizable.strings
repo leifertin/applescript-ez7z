@@ -1,0 +1,72 @@
+/* Buttons & Menus */
+"GO_TEXT" = "Dalej";
+"NEXT_TEXT" = "Następny";
+"CLOSE_TEXT" = "Zamknij";
+"YES_TEXT" = "Tak";
+"LAME_TEXT" = "Kiepsko";
+"OKAY_TEXT" = "Ok";
+"WEIRD_TEXT" = "Dziwne";
+"CANCEL_TEXT" = "Anuluj";
+"DOWNLOAD_TEXT" = "Ściągnij na dysk";
+"SAVE_AS_TEXT" = "Zapisz jako...";
+"VIEW_SERIAL_NUMBER_TEXT" = "Pokaż numer seryjny";
+"ENTER_SERIAL_NUMBER_TEXT" = "Wprowadź numer seryjny";
+"DELETE_TEXT" = "Delete";
+
+/* Dialogs */
+"ITEM1OF1TEXT" = "Element 1 z 1";
+"ITEMCOUNTTEXT" = "2 elementy";
+"MULTIPLEITEMVIEWERROR" = "Możesz przeglądać wyłącznie jedno archiwum w tym samym czasie.";
+"DROPMULTINONREG" = "Musisz być zarejestrowany, aby móc upuszczać wiele elementów.";
+"DEFAULTDROPTEXT" = "Upuść coś tutaj.";
+"CLEARREGWARNING" = "Czy jesteś pewny, że chcesz wyczyścić swoją rejestracje?";
+"FORGOTITEM" = "Zapomniałeś wyznaczyć element do przetworzenia.";
+"NOPASSPROVIDED" = "Nie wprowadzono hasła.";
+"DELETEFROMRARERROR" = "Usuwanie plików z wewnątrz archiwum nie jest, jak na razie, wspierane dla archiwów RAR.";
+"MULTIPARERROR" = "Tworzenie archiwów RAR z kilku elementów nie jest, jak na razie, wspierane.";
+"TOGGLEUNRAR" = "Przełącz pole wyboru \"use unRAR\" w ustawieniach.";
+"CREATEPROGRESS" = "Inicjalizuję pasek postępu...";
+"NONVIEWITEM" = "Możesz jedynie przeglądać archiwum.";
+
+"FILECORRUPT" = "TO archiwum jest uszkodzone.";
+"PROCESSING_TEXT" = "Przetwarzanie...";
+"IDLE_TEXT" = "Bezczynny.";
+"WRONG_PASSWORD" = "Nieprawidłowe hasło.";
+"EZ7Z_SITEDOWN" = "Serwer z którego Ez7z korzysta, aby określać użytkowników, padł.";
+"QUOTEFOUND_CURRRENT" = "
+
+Ten element zawiera cytat więc nie zostanie przetworzony.
+Zmień nazwę i spróbuj ponownie.";
+
+"OTHERTHAN7ZERROR" = "Musisz być zarejestrowany aby móc tworzyć archiwa inne niż 7z.";
+"NOSPLITAMOUNT" = "Nie podano na ile części podzielić plik.";
+"ALREADYREG" = "Jesteś już zarejestrowany.";
+"MULTIDROPDOCK" = "Ikona w Docku nie lubi gdy ktoś upuszcza na nią wiele elementów na raz.";
+"NOTCONNECTED" = "Proszę podłącz swój komputer do internetu.";
+"UPDATESITEDOWN" = "Strona aktualizacji padła.";
+"RUNNINGNEWEST" = "Aktualnie używasz najnowszej wersji oprogramowania.";
+"DOWNLOADINGTODESKTOP" = "Zapisuję na Pulpicie...";
+"DOWNLOADINGTODESKTOP2" = "Pozostało więcej niż 50%.";
+"CURRENTVERSION" = "Aktualna wersja to ";
+"YOURVERSIONTEXT" = "Aktualnie używasz wersji";
+
+"ABOUTWINDOWTEXT" = "Stworzony przez Leif Heflin
+
+Rozwijany przez:
+ 7za 9.04 z web.me.com/krmathis
+ unRAR 3.6 © Alexander Roshal
+ PAR2 0.4 © Peter Brian Clements
+ bzip2 1.0.5 © Julian Seward
+
+Tłumaczenia: Polski - Sebastian Mazur
+
+Ikona wiele elementów stworzona przez Pierre Morin";
+"ABOUTTEXT1" = "ty oraz inny";
+"ABOUTTEXT2" = "";
+"ABOUTTEXT3" = "wiele";
+
+"QUOTESERROR0" = "Elementy z ' nie mogą zostać, jak na razie, przetworzone przez Ez7...";
+"QUOTESERROR1" = " żaden z twoich elementów nie został przetworzony.";
+"QUOTESERROR2" = " elementy nie zostaną przetworzone.";
+"QUOTESERROR3" = " ten element nie zostanie przetworzony.";
+"QUOTESERROR4" = " 1 item nie zostanie przetworzony.";

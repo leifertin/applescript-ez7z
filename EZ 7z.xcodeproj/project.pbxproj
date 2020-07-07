@@ -1,0 +1,614 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 42;
+	objects = {
+
+/* Begin PBXAppleScriptBuildPhase section */
+		59F84BB209E9963200F70FD0 /* AppleScript */ = {
+			isa = PBXAppleScriptBuildPhase;
+			buildActionMask = 2147483647;
+			contextName = "";
+			files = (
+				59F0CA9010C61F7B00FEB993 /* EZ 7z.applescript in AppleScript */,
+				40F3EA1B12A21317000BDD48 /* checkBoxes.applescript in AppleScript */,
+				40F3EA7812A2269D000BDD48 /* shrinkTypeMenu.applescript in AppleScript */,
+			);
+			isSharedContext = 0;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXAppleScriptBuildPhase section */
+
+/* Begin PBXBuildFile section */
+		4089BF5F12AC5B730098561D /* dp.pl in Resources */ = {isa = PBXBuildFile; fileRef = 4089BF5E12AC5B730098561D /* dp.pl */; };
+		40F3EA1B12A21317000BDD48 /* checkBoxes.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 40F3EA1A12A21317000BDD48 /* checkBoxes.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		40F3EA7812A2269D000BDD48 /* shrinkTypeMenu.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = 40F3EA7712A2269D000BDD48 /* shrinkTypeMenu.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		59304E681071404B00DDFD71 /* unrar in Resources */ = {isa = PBXBuildFile; fileRef = 59304E671071404B00DDFD71 /* unrar */; };
+		593D69CB111F49A900958B66 /* ez7zBGgrad.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 593D69CA111F49A900958B66 /* ez7zBGgrad.jpg */; };
+		5941C7B510C468D1001B57CF /* MainMenu.nib in Resources */ = {isa = PBXBuildFile; fileRef = 5941C7B410C468D1001B57CF /* MainMenu.nib */; };
+		594E758C10756EC400FD41C2 /* par2 in Resources */ = {isa = PBXBuildFile; fileRef = 594E758B10756EC400FD41C2 /* par2 */; };
+		5954483C11DFED9F007E8339 /* windowEZ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5954483B11DFED9F007E8339 /* windowEZ.jpg */; };
+		59595D2910B20F2000F2AF23 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165DFE840E0CC02AAC07 /* InfoPlist.strings */; };
+		5970688A111A0B3B00218CE9 /* multiple_items2.png in Resources */ = {isa = PBXBuildFile; fileRef = 59706889111A0B3B00218CE9 /* multiple_items2.png */; };
+		59BDFE3A118E72D0002C90A7 /* fileType-7z.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59BDFE32118E72D0002C90A7 /* fileType-7z.icns */; };
+		59BDFE3C118E72D0002C90A7 /* fileType-Gzip.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59BDFE34118E72D0002C90A7 /* fileType-Gzip.icns */; };
+		59BDFE3D118E72D0002C90A7 /* fileType-Par2.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59BDFE35118E72D0002C90A7 /* fileType-Par2.icns */; };
+		59BDFE3E118E72D0002C90A7 /* fileType-Rar.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59BDFE36118E72D0002C90A7 /* fileType-Rar.icns */; };
+		59BDFE3F118E72D0002C90A7 /* fileType-Split.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59BDFE37118E72D0002C90A7 /* fileType-Split.icns */; };
+		59BDFE40118E72D0002C90A7 /* fileType-Tar.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59BDFE38118E72D0002C90A7 /* fileType-Tar.icns */; };
+		59BDFE41118E72D0002C90A7 /* fileType-Zip.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59BDFE39118E72D0002C90A7 /* fileType-Zip.icns */; };
+		59CBE13B10C9EB4100DA06A3 /* AppIconBWJeansGradient.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59CBE13A10C9EB4100DA06A3 /* AppIconBWJeansGradient.icns */; };
+		59DDBB041112190D0008EF92 /* IEFFileIcon.h in Headers */ = {isa = PBXBuildFile; fileRef = 59DDBB021112190D0008EF92 /* IEFFileIcon.h */; };
+		59DDBB051112190D0008EF92 /* IEFFileIcon.m in Sources */ = {isa = PBXBuildFile; fileRef = 59DDBB031112190D0008EF92 /* IEFFileIcon.m */; };
+		59EF4D2110C779DE0054F70D /* Ez7zJeansTrans.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59EF4D2010C779DE0054F70D /* Ez7zJeansTrans.icns */; };
+		59EF4D4510C77C5A0054F70D /* Ez7zJeansNoText.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59EF4D4410C77C5A0054F70D /* Ez7zJeansNoText.icns */; };
+		59F0CA7610C61E2500FEB993 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 59F0CA7510C61E2500FEB993 /* Localizable.strings */; };
+		59F0CA9010C61F7B00FEB993 /* EZ 7z.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = DA206CF3015C4E8B03C91932 /* EZ 7z.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		59F6BD161139E2F7007C8545 /* dock1.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59F6BD0C1139E2F7007C8545 /* dock1.icns */; };
+		59F6BD171139E2F7007C8545 /* dock2.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59F6BD0D1139E2F7007C8545 /* dock2.icns */; };
+		59F6BD181139E2F7007C8545 /* dock3.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59F6BD0E1139E2F7007C8545 /* dock3.icns */; };
+		59F6BD191139E2F7007C8545 /* dock4.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59F6BD0F1139E2F7007C8545 /* dock4.icns */; };
+		59F6BD1A1139E2F7007C8545 /* dock5.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59F6BD101139E2F7007C8545 /* dock5.icns */; };
+		59F6BD1B1139E2F7007C8545 /* dock6.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59F6BD111139E2F7007C8545 /* dock6.icns */; };
+		59F6BD1C1139E2F7007C8545 /* dock7.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59F6BD121139E2F7007C8545 /* dock7.icns */; };
+		59F6BD1D1139E2F7007C8545 /* dock8.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59F6BD131139E2F7007C8545 /* dock8.icns */; };
+		59F6BD1E1139E2F7007C8545 /* dock9.icns in Resources */ = {isa = PBXBuildFile; fileRef = 59F6BD141139E2F7007C8545 /* dock9.icns */; };
+		59F84BB709E9963200F70FD0 /* 7za in Resources */ = {isa = PBXBuildFile; fileRef = 29020A6408B8293400475442 /* 7za */; };
+		59F84BBA09E9963200F70FD0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
+		59F84BBC09E9963200F70FD0 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+		59F84BBD09E9963200F70FD0 /* AppleScriptKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA206CF1015C4E2903C91932 /* AppleScriptKit.framework */; };
+		E051D1731391E3F000D4BCAD /* fileType-Bzip2.icns in Resources */ = {isa = PBXBuildFile; fileRef = E051D1721391E3F000D4BCAD /* fileType-Bzip2.icns */; };
+		E094836D138C5176003409E2 /* tealBG.png in Resources */ = {isa = PBXBuildFile; fileRef = E094836C138C5176003409E2 /* tealBG.png */; };
+		E0B8081C13162CE500EEE5D1 /* blankWhite.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0B8081B13162CE500EEE5D1 /* blankWhite.gif */; };
+		E0B8082013162D3C00EEE5D1 /* blankBlack.gif in Resources */ = {isa = PBXBuildFile; fileRef = E0B8081F13162D3C00EEE5D1 /* blankBlack.gif */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		089C165DFE840E0CC02AAC07 /* InfoPlist.strings */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; path = InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		29020A6408B8293400475442 /* 7za */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = 7za; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		29B97319FDCFA39411CA2CEA /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/MainMenu.nib; sourceTree = SOURCE_ROOT; };
+		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		4089BF5E12AC5B730098561D /* dp.pl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.perl; path = dp.pl; sourceTree = SOURCE_ROOT; };
+		40F3EA1A12A21317000BDD48 /* checkBoxes.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = checkBoxes.applescript; sourceTree = SOURCE_ROOT; };
+		40F3EA6E12A22483000BDD48 /* Russian */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Russian; path = Russian.lproj/Localizable.strings; sourceTree = SOURCE_ROOT; };
+		40F3EA7412A22502000BDD48 /* Russian */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Russian; path = Russian.lproj/MainMenu.nib; sourceTree = SOURCE_ROOT; };
+		40F3EA7712A2269D000BDD48 /* shrinkTypeMenu.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = shrinkTypeMenu.applescript; sourceTree = SOURCE_ROOT; };
+		5918DB1B1160068D0006C3D8 /* Catalan */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Catalan; path = Catalan.lproj/Localizable.strings; sourceTree = SOURCE_ROOT; };
+		5918DB1C116006940006C3D8 /* Catalan */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Catalan; path = Catalan.lproj/MainMenu.nib; sourceTree = SOURCE_ROOT; };
+		591D61E31205FC69001BDB5F /* Polish */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Polish; path = Polish.lproj/Localizable.strings; sourceTree = SOURCE_ROOT; };
+		591D61E51205FCFE001BDB5F /* Polish */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Polish; path = Polish.lproj/MainMenu.nib; sourceTree = SOURCE_ROOT; };
+		591F4256112E294B00BF83B1 /* German */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = German; path = German.lproj/Localizable.strings; sourceTree = SOURCE_ROOT; };
+		591F4257112E295200BF83B1 /* German */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = German; path = German.lproj/MainMenu.nib; sourceTree = SOURCE_ROOT; };
+		59304E671071404B00DDFD71 /* unrar */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = unrar; sourceTree = "<group>"; };
+		593D69CA111F49A900958B66 /* ez7zBGgrad.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ez7zBGgrad.jpg; sourceTree = "<group>"; };
+		5941C7B610C468D5001B57CF /* French */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = French; path = French.lproj/MainMenu.nib; sourceTree = SOURCE_ROOT; };
+		594E758B10756EC400FD41C2 /* par2 */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = par2; sourceTree = "<group>"; };
+		5954483B11DFED9F007E8339 /* windowEZ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = windowEZ.jpg; sourceTree = "<group>"; };
+		5968A2B0110A2D1F0064D901 /* Spanish */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Spanish; path = Spanish.lproj/Localizable.strings; sourceTree = SOURCE_ROOT; };
+		5968A2B2110A2D8D0064D901 /* Spanish */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Spanish; path = Spanish.lproj/MainMenu.nib; sourceTree = SOURCE_ROOT; };
+		596A13F41124855A00BE2428 /* Croatian */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Croatian; path = Croatian.lproj/Localizable.strings; sourceTree = SOURCE_ROOT; };
+		596A13F51124857300BE2428 /* Croatian */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Croatian; path = Croatian.lproj/MainMenu.nib; sourceTree = SOURCE_ROOT; };
+		596E171810B241EC008081ED /* Ez7z.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ez7z.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		59706889111A0B3B00218CE9 /* multiple_items2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = multiple_items2.png; sourceTree = "<group>"; };
+		597B9821118CC79700730EF8 /* zh_hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = zh_hans; path = zh_hans.lproj/Localizable.strings; sourceTree = SOURCE_ROOT; };
+		597B9822118CC7A700730EF8 /* zh_hans */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = zh_hans; path = zh_hans.lproj/MainMenu.nib; sourceTree = SOURCE_ROOT; };
+		598E9807115C2C310081339B /* Portuguese */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Portuguese; path = Portuguese.lproj/Localizable.strings; sourceTree = SOURCE_ROOT; };
+		598E9808115C2C3D0081339B /* Portuguese */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Portuguese; path = Portuguese.lproj/MainMenu.nib; sourceTree = SOURCE_ROOT; };
+		59926FAC118E770200D1CD8A /* Turkish */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Turkish; path = Turkish.lproj/Localizable.strings; sourceTree = SOURCE_ROOT; };
+		59926FAD118E771200D1CD8A /* Turkish */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Turkish; path = Turkish.lproj/MainMenu.nib; sourceTree = SOURCE_ROOT; };
+		59A0945E10EDE72B003F8D43 /* Swedish */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Swedish; path = Swedish.lproj/MainMenu.nib; sourceTree = SOURCE_ROOT; };
+		59A0945F10EDE754003F8D43 /* Swedish */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Swedish; path = Swedish.lproj/Localizable.strings; sourceTree = SOURCE_ROOT; };
+		59BDD2EE10C5D2ED00EE2E21 /* English */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/Localizable.strings; sourceTree = SOURCE_ROOT; };
+		59BDFE32118E72D0002C90A7 /* fileType-7z.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = "fileType-7z.icns"; sourceTree = "<group>"; };
+		59BDFE34118E72D0002C90A7 /* fileType-Gzip.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = "fileType-Gzip.icns"; sourceTree = "<group>"; };
+		59BDFE35118E72D0002C90A7 /* fileType-Par2.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = "fileType-Par2.icns"; sourceTree = "<group>"; };
+		59BDFE36118E72D0002C90A7 /* fileType-Rar.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = "fileType-Rar.icns"; sourceTree = "<group>"; };
+		59BDFE37118E72D0002C90A7 /* fileType-Split.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = "fileType-Split.icns"; sourceTree = "<group>"; };
+		59BDFE38118E72D0002C90A7 /* fileType-Tar.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = "fileType-Tar.icns"; sourceTree = "<group>"; };
+		59BDFE39118E72D0002C90A7 /* fileType-Zip.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = "fileType-Zip.icns"; sourceTree = "<group>"; };
+		59CBE13A10C9EB4100DA06A3 /* AppIconBWJeansGradient.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = AppIconBWJeansGradient.icns; sourceTree = "<group>"; };
+		59D81BA011840B8C00D42C2E /* zh_TW */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = zh_TW; path = zh_TW.lproj/Localizable.strings; sourceTree = SOURCE_ROOT; };
+		59D81BA111840B9900D42C2E /* zh_TW */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = zh_TW; path = zh_TW.lproj/MainMenu.nib; sourceTree = SOURCE_ROOT; };
+		59D8F877112C66FB005492B8 /* Dutch */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Dutch; path = Dutch.lproj/Localizable.strings; sourceTree = SOURCE_ROOT; };
+		59D8F878112C6718005492B8 /* Dutch */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Dutch; path = Dutch.lproj/MainMenu.nib; sourceTree = SOURCE_ROOT; };
+		59DA767F111A326B00B0EFE4 /* Italian */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Italian; path = Italian.lproj/Localizable.strings; sourceTree = SOURCE_ROOT; };
+		59DA7685111A339900B0EFE4 /* Italian */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Italian; path = Italian.lproj/MainMenu.nib; sourceTree = SOURCE_ROOT; };
+		59DDBB021112190D0008EF92 /* IEFFileIcon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IEFFileIcon.h; sourceTree = "<group>"; };
+		59DDBB031112190D0008EF92 /* IEFFileIcon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IEFFileIcon.m; sourceTree = "<group>"; };
+		59EF4D2010C779DE0054F70D /* Ez7zJeansTrans.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = Ez7zJeansTrans.icns; sourceTree = "<group>"; };
+		59EF4D4410C77C5A0054F70D /* Ez7zJeansNoText.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = Ez7zJeansNoText.icns; sourceTree = "<group>"; };
+		59F0CA7710C61E2D00FEB993 /* French */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = French; path = French.lproj/Localizable.strings; sourceTree = SOURCE_ROOT; };
+		59F6BD0C1139E2F7007C8545 /* dock1.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = dock1.icns; sourceTree = "<group>"; };
+		59F6BD0D1139E2F7007C8545 /* dock2.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = dock2.icns; sourceTree = "<group>"; };
+		59F6BD0E1139E2F7007C8545 /* dock3.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = dock3.icns; sourceTree = "<group>"; };
+		59F6BD0F1139E2F7007C8545 /* dock4.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = dock4.icns; sourceTree = "<group>"; };
+		59F6BD101139E2F7007C8545 /* dock5.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = dock5.icns; sourceTree = "<group>"; };
+		59F6BD111139E2F7007C8545 /* dock6.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = dock6.icns; sourceTree = "<group>"; };
+		59F6BD121139E2F7007C8545 /* dock7.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = dock7.icns; sourceTree = "<group>"; };
+		59F6BD131139E2F7007C8545 /* dock8.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = dock8.icns; sourceTree = "<group>"; };
+		59F6BD141139E2F7007C8545 /* dock9.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = dock9.icns; sourceTree = "<group>"; };
+		59F84BC209E9963200F70FD0 /* Info-EZ_7z__Upgraded_.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Info-EZ_7z__Upgraded_.plist"; sourceTree = "<group>"; };
+		DA206CF1015C4E2903C91932 /* AppleScriptKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppleScriptKit.framework; path = /System/Library/Frameworks/AppleScriptKit.framework; sourceTree = "<absolute>"; };
+		DA206CF3015C4E8B03C91932 /* EZ 7z.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = "EZ 7z.applescript"; sourceTree = "<group>"; };
+		DA206CF4015C4E8B03C91932 /* AppleScriptKit.asdictionary */ = {isa = PBXFileReference; lastKnownFileType = archive.asdictionary; name = AppleScriptKit.asdictionary; path = /System/Library/Frameworks/AppleScriptKit.framework/Versions/A/Resources/AppleScriptKit.asdictionary; sourceTree = "<absolute>"; };
+		E051D1721391E3F000D4BCAD /* fileType-Bzip2.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = "fileType-Bzip2.icns"; sourceTree = SOURCE_ROOT; };
+		E094836C138C5176003409E2 /* tealBG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tealBG.png; sourceTree = SOURCE_ROOT; };
+		E0B8081B13162CE500EEE5D1 /* blankWhite.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = blankWhite.gif; sourceTree = SOURCE_ROOT; };
+		E0B8081F13162D3C00EEE5D1 /* blankBlack.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = blankBlack.gif; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		59F84BBB09E9963200F70FD0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				59F84BBC09E9963200F70FD0 /* Cocoa.framework in Frameworks */,
+				59F84BBD09E9963200F70FD0 /* AppleScriptKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Scripts */ = {
+			isa = PBXGroup;
+			children = (
+				40F3EA7712A2269D000BDD48 /* shrinkTypeMenu.applescript */,
+				DA206CF3015C4E8B03C91932 /* EZ 7z.applescript */,
+				40F3EA1A12A21317000BDD48 /* checkBoxes.applescript */,
+			);
+			name = Scripts;
+			sourceTree = "<group>";
+		};
+		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
+				DA206CF1015C4E2903C91932 /* AppleScriptKit.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A2FEA54F0111CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29B97325FDCFA39411CA2CEA /* Foundation.framework */,
+				29B97324FDCFA39411CA2CEA /* AppKit.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				596E171810B241EC008081ED /* Ez7z.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Scripts */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				59F84BC209E9963200F70FD0 /* Info-EZ_7z__Upgraded_.plist */,
+			);
+			name = Application;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E094836C138C5176003409E2 /* tealBG.png */,
+				4089BF5E12AC5B730098561D /* dp.pl */,
+				5954483B11DFED9F007E8339 /* windowEZ.jpg */,
+				E0B8081F13162D3C00EEE5D1 /* blankBlack.gif */,
+				E0B8081B13162CE500EEE5D1 /* blankWhite.gif */,
+				E051D1721391E3F000D4BCAD /* fileType-Bzip2.icns */,
+				59BDFE32118E72D0002C90A7 /* fileType-7z.icns */,
+				59BDFE34118E72D0002C90A7 /* fileType-Gzip.icns */,
+				59BDFE35118E72D0002C90A7 /* fileType-Par2.icns */,
+				59BDFE36118E72D0002C90A7 /* fileType-Rar.icns */,
+				59BDFE37118E72D0002C90A7 /* fileType-Split.icns */,
+				59BDFE38118E72D0002C90A7 /* fileType-Tar.icns */,
+				59BDFE39118E72D0002C90A7 /* fileType-Zip.icns */,
+				59F6BD0C1139E2F7007C8545 /* dock1.icns */,
+				59F6BD0D1139E2F7007C8545 /* dock2.icns */,
+				59F6BD0E1139E2F7007C8545 /* dock3.icns */,
+				59F6BD0F1139E2F7007C8545 /* dock4.icns */,
+				59F6BD101139E2F7007C8545 /* dock5.icns */,
+				59F6BD111139E2F7007C8545 /* dock6.icns */,
+				59F6BD121139E2F7007C8545 /* dock7.icns */,
+				59F6BD131139E2F7007C8545 /* dock8.icns */,
+				59F6BD141139E2F7007C8545 /* dock9.icns */,
+				593D69CA111F49A900958B66 /* ez7zBGgrad.jpg */,
+				59706889111A0B3B00218CE9 /* multiple_items2.png */,
+				59DDBB021112190D0008EF92 /* IEFFileIcon.h */,
+				59DDBB031112190D0008EF92 /* IEFFileIcon.m */,
+				59CBE13A10C9EB4100DA06A3 /* AppIconBWJeansGradient.icns */,
+				59F0CA7510C61E2500FEB993 /* Localizable.strings */,
+				59EF4D4410C77C5A0054F70D /* Ez7zJeansNoText.icns */,
+				59EF4D2010C779DE0054F70D /* Ez7zJeansTrans.icns */,
+				29020A6408B8293400475442 /* 7za */,
+				594E758B10756EC400FD41C2 /* par2 */,
+				59304E671071404B00DDFD71 /* unrar */,
+				5941C7B410C468D1001B57CF /* MainMenu.nib */,
+				089C165DFE840E0CC02AAC07 /* InfoPlist.strings */,
+				DA206CF4015C4E8B03C91932 /* AppleScriptKit.asdictionary */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
+				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		59F84BB109E9963200F70FD0 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				59DDBB041112190D0008EF92 /* IEFFileIcon.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		59F84BB009E9963200F70FD0 /* Ez7z (Upgraded) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 59F84BBE09E9963200F70FD0 /* Build configuration list for PBXNativeTarget "Ez7z (Upgraded)" */;
+			buildPhases = (
+				59F84BB109E9963200F70FD0 /* Headers */,
+				59F84BB209E9963200F70FD0 /* AppleScript */,
+				59F84BB409E9963200F70FD0 /* Resources */,
+				59F84BB909E9963200F70FD0 /* Sources */,
+				59F84BBB09E9963200F70FD0 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Ez7z (Upgraded)";
+			productInstallPath = "$(HOME)/Applications";
+			productName = Application;
+			productReference = 596E171810B241EC008081ED /* Ez7z.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 59FB3BCF09E8573B0086C68E /* Build configuration list for PBXProject "EZ 7z" */;
+			compatibilityVersion = "Xcode 2.4";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				Russian,
+				Swedish,
+				Spanish,
+				Italian,
+				Croatian,
+				Dutch,
+				Portuguese,
+				"Català",
+				Catalan,
+				"Chinese (Traditional)",
+				"Traditional Chinese zh_TW",
+				"Traditional Chinese",
+				Chinese,
+				"zh-Hans",
+				zh_TW,
+				zh_hans,
+				Turkish,
+				Polish,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* Application */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				59F84BB009E9963200F70FD0 /* Ez7z (Upgraded) */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		59F84BB409E9963200F70FD0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5941C7B510C468D1001B57CF /* MainMenu.nib in Resources */,
+				59595D2910B20F2000F2AF23 /* InfoPlist.strings in Resources */,
+				59F84BB709E9963200F70FD0 /* 7za in Resources */,
+				59304E681071404B00DDFD71 /* unrar in Resources */,
+				594E758C10756EC400FD41C2 /* par2 in Resources */,
+				59F0CA7610C61E2500FEB993 /* Localizable.strings in Resources */,
+				59EF4D2110C779DE0054F70D /* Ez7zJeansTrans.icns in Resources */,
+				59EF4D4510C77C5A0054F70D /* Ez7zJeansNoText.icns in Resources */,
+				59CBE13B10C9EB4100DA06A3 /* AppIconBWJeansGradient.icns in Resources */,
+				5970688A111A0B3B00218CE9 /* multiple_items2.png in Resources */,
+				593D69CB111F49A900958B66 /* ez7zBGgrad.jpg in Resources */,
+				59F6BD161139E2F7007C8545 /* dock1.icns in Resources */,
+				59F6BD171139E2F7007C8545 /* dock2.icns in Resources */,
+				59F6BD181139E2F7007C8545 /* dock3.icns in Resources */,
+				59F6BD191139E2F7007C8545 /* dock4.icns in Resources */,
+				59F6BD1A1139E2F7007C8545 /* dock5.icns in Resources */,
+				59F6BD1B1139E2F7007C8545 /* dock6.icns in Resources */,
+				59F6BD1C1139E2F7007C8545 /* dock7.icns in Resources */,
+				59F6BD1D1139E2F7007C8545 /* dock8.icns in Resources */,
+				59F6BD1E1139E2F7007C8545 /* dock9.icns in Resources */,
+				59BDFE3A118E72D0002C90A7 /* fileType-7z.icns in Resources */,
+				59BDFE3C118E72D0002C90A7 /* fileType-Gzip.icns in Resources */,
+				59BDFE3D118E72D0002C90A7 /* fileType-Par2.icns in Resources */,
+				59BDFE3E118E72D0002C90A7 /* fileType-Rar.icns in Resources */,
+				59BDFE3F118E72D0002C90A7 /* fileType-Split.icns in Resources */,
+				59BDFE40118E72D0002C90A7 /* fileType-Tar.icns in Resources */,
+				59BDFE41118E72D0002C90A7 /* fileType-Zip.icns in Resources */,
+				5954483C11DFED9F007E8339 /* windowEZ.jpg in Resources */,
+				4089BF5F12AC5B730098561D /* dp.pl in Resources */,
+				E0B8081C13162CE500EEE5D1 /* blankWhite.gif in Resources */,
+				E0B8082013162D3C00EEE5D1 /* blankBlack.gif in Resources */,
+				E094836D138C5176003409E2 /* tealBG.png in Resources */,
+				E051D1731391E3F000D4BCAD /* fileType-Bzip2.icns in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		59F84BB909E9963200F70FD0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				59F84BBA09E9963200F70FD0 /* main.m in Sources */,
+				59DDBB051112190D0008EF92 /* IEFFileIcon.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		5941C7B410C468D1001B57CF /* MainMenu.nib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				29B97319FDCFA39411CA2CEA /* English */,
+				5941C7B610C468D5001B57CF /* French */,
+				59A0945E10EDE72B003F8D43 /* Swedish */,
+				5968A2B2110A2D8D0064D901 /* Spanish */,
+				59DA7685111A339900B0EFE4 /* Italian */,
+				596A13F51124857300BE2428 /* Croatian */,
+				59D8F878112C6718005492B8 /* Dutch */,
+				591F4257112E295200BF83B1 /* German */,
+				598E9808115C2C3D0081339B /* Portuguese */,
+				5918DB1C116006940006C3D8 /* Catalan */,
+				59D81BA111840B9900D42C2E /* zh_TW */,
+				597B9822118CC7A700730EF8 /* zh_hans */,
+				59926FAD118E771200D1CD8A /* Turkish */,
+				591D61E51205FCFE001BDB5F /* Polish */,
+				40F3EA7412A22502000BDD48 /* Russian */,
+			);
+			name = MainMenu.nib;
+			sourceTree = SOURCE_ROOT;
+		};
+		59F0CA7510C61E2500FEB993 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				59BDD2EE10C5D2ED00EE2E21 /* English */,
+				59F0CA7710C61E2D00FEB993 /* French */,
+				59A0945F10EDE754003F8D43 /* Swedish */,
+				5968A2B0110A2D1F0064D901 /* Spanish */,
+				59DA767F111A326B00B0EFE4 /* Italian */,
+				596A13F41124855A00BE2428 /* Croatian */,
+				59D8F877112C66FB005492B8 /* Dutch */,
+				591F4256112E294B00BF83B1 /* German */,
+				598E9807115C2C310081339B /* Portuguese */,
+				5918DB1B1160068D0006C3D8 /* Catalan */,
+				59D81BA011840B8C00D42C2E /* zh_TW */,
+				597B9821118CC79700730EF8 /* zh_hans */,
+				59926FAC118E770200D1CD8A /* Turkish */,
+				591D61E31205FC69001BDB5F /* Polish */,
+				40F3EA6E12A22483000BDD48 /* Russian */,
+			);
+			name = Localizable.strings;
+			sourceTree = SOURCE_ROOT;
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		59F84BBF09E9963200F70FD0 /* Development */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ONLY_ACTIVE_ARCH_PRE_XCODE_3_1)";
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = "";
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_FAST_OBJC_DISPATCH = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_MODEL_TUNING = "";
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_REUSE_STRINGS = YES;
+				HEADER_SEARCH_PATHS = "";
+				INFOPLIST_FILE = "Info-EZ_7z__Upgraded_.plist";
+				INFOPLIST_OUTPUT_FORMAT = binary;
+				INSTALL_PATH = "$(HOME)/Applications";
+				LIBRARY_SEARCH_PATHS = "";
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				ONLY_ACTIVE_ARCH_PRE_XCODE_3_1 = "$(NATIVE_ARCH_64)";
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PREBINDING = YES;
+				PRODUCT_NAME = Ez7z;
+				SDKROOT = /Developer/SDKs/MacOSX10.5.sdk;
+				SECTORDER_FLAGS = "";
+				STRINGS_FILE_OUTPUT_ENCODING = "UTF-8";
+				WARNING_CFLAGS = (
+					"-Wmost",
+					"-Wno-four-char-constants",
+					"-Wno-unknown-pragmas",
+				);
+				WRAPPER_EXTENSION = app;
+				ZERO_LINK = NO;
+			};
+			name = Development;
+		};
+		59F84BC009E9963200F70FD0 /* Deployment */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1)";
+				ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1 = "x86_64 i386 ppc";
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = "";
+				GCC_AUTO_VECTORIZATION = YES;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_MODEL_TUNING = "";
+				HEADER_SEARCH_PATHS = "";
+				IBC_STRIP_NIBS = NO;
+				INFOPLIST_FILE = "Info-EZ_7z__Upgraded_.plist";
+				INFOPLIST_OUTPUT_FORMAT = binary;
+				INSTALL_PATH = /Applications;
+				LIBRARY_SEARCH_PATHS = "";
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				OTHER_OSAFLAGS = "-x";
+				PREBINDING = YES;
+				PRODUCT_NAME = Ez7z;
+				SDKROOT = /Developer/SDKs/MacOSX10.5.sdk;
+				SECTORDER_FLAGS = "";
+				STRINGS_FILE_OUTPUT_ENCODING = "UTF-8";
+				STRIP_INSTALLED_PRODUCT = YES;
+				WARNING_CFLAGS = (
+					"-Wmost",
+					"-Wno-four-char-constants",
+					"-Wno-unknown-pragmas",
+				);
+				WRAPPER_EXTENSION = app;
+				ZERO_LINK = NO;
+			};
+			name = Deployment;
+		};
+		59F84BC109E9963200F70FD0 /* Default */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = "";
+				HEADER_SEARCH_PATHS = "";
+				INFOPLIST_FILE = "Info-EZ_7z__Upgraded_.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				LIBRARY_SEARCH_PATHS = "";
+				MACOSX_DEPLOYMENT_TARGET = 10.3;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PREBINDING = YES;
+				PRODUCT_NAME = "EZ 7z";
+				SECTORDER_FLAGS = "";
+				WARNING_CFLAGS = (
+					"-Wmost",
+					"-Wno-four-char-constants",
+					"-Wno-unknown-pragmas",
+				);
+				WRAPPER_EXTENSION = app;
+				ZERO_LINK = NO;
+			};
+			name = Default;
+		};
+		59FB3BD009E8573B0086C68E /* Development */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					ppc,
+					i386,
+				);
+				MACH_O_TYPE = mh_execute;
+				MACOSX_DEPLOYMENT_TARGET = 10.4;
+				PREBINDING = YES;
+				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+				ZERO_LINK = NO;
+			};
+			name = Development;
+		};
+		59FB3BD109E8573B0086C68E /* Deployment */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					ppc,
+					i386,
+				);
+				MACH_O_TYPE = mh_execute;
+				MACOSX_DEPLOYMENT_TARGET = 10.3;
+				PREBINDING = YES;
+				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+				ZERO_LINK = NO;
+			};
+			name = Deployment;
+		};
+		59FB3BD209E8573B0086C68E /* Default */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					ppc,
+					i386,
+				);
+				MACH_O_TYPE = mh_execute;
+				MACOSX_DEPLOYMENT_TARGET = 10.4;
+				PREBINDING = YES;
+				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+				ZERO_LINK = NO;
+			};
+			name = Default;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		59F84BBE09E9963200F70FD0 /* Build configuration list for PBXNativeTarget "Ez7z (Upgraded)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				59F84BBF09E9963200F70FD0 /* Development */,
+				59F84BC009E9963200F70FD0 /* Deployment */,
+				59F84BC109E9963200F70FD0 /* Default */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Default;
+		};
+		59FB3BCF09E8573B0086C68E /* Build configuration list for PBXProject "EZ 7z" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				59FB3BD009E8573B0086C68E /* Development */,
+				59FB3BD109E8573B0086C68E /* Deployment */,
+				59FB3BD209E8573B0086C68E /* Default */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Default;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

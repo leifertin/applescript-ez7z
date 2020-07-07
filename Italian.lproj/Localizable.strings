@@ -1,0 +1,71 @@
+/* Buttons & Menus */
+"GO_TEXT" = "Vai";
+"NEXT_TEXT" = "Prossimo";
+"CLOSE_TEXT" = "Chiudi";
+"YES_TEXT" = "Si";
+"LAME_TEXT" = "Lame";
+"OKAY_TEXT" = "Okay";
+"WEIRD_TEXT" = "Strano";
+"CANCEL_TEXT" = "Annulla";
+"DOWNLOAD_TEXT" = "Scarica";
+"SAVE_AS_TEXT" = "Salva col nome...";
+"VIEW_SERIAL_NUMBER_TEXT" = "Visualizza Numero di Serie";
+"ENTER_SERIAL_NUMBER_TEXT" = "Inserisci Numero di Serie";
+"DELETE_TEXT" = "Elimina";
+
+/* Dialogs */
+"ITEM1OF1TEXT" = "Elemento 1 di 1";
+"ITEMCOUNTTEXT" = "2 elementi";
+"MULTIPLEITEMVIEWERROR" = "Si può visualizzare un solo archivio alla volta.";
+"DROPMULTINONREG" = "Per trascinare più di un elemento, devi registrarti.";
+"DEFAULTDROPTEXT" = "Trascina qualcosa qui.";
+"CLEARREGWARNING" = "Sei sicuro di voler annullare la tua registrazione?";
+"FORGOTITEM" = "Hai dimenticato di specificare un elemento da elaborare.";
+"NOPASSPROVIDED" = "Non è stata fornita una password.";
+"DELETEFROMRARERROR" = "L'eliminazione id file all'interno id urn archive non è attualmente supportato per gli archivi RAR.";
+"NONVIEWITEM" = "Puoi visualizzare solo archivi.";
+"TOGGLEUNRAR" = "Modifica il checkbox \"usa unRAR\" nelle preferenze.";
+"CREATEPROGRESS" = "Inizializzazione barra avanzamento...";
+
+"FILECORRUPT" = "Questo archivio è corrotto.";
+"PROCESSING_TEXT" = "Elaborazione...";
+"IDLE_TEXT" = "Idle.";
+"WRONG_PASSWORD" = "Password errata.";
+"EZ7Z_SITEDOWN" = "Il server web cui si appoggia Ez7z per determinare gli utenti è inaccessibile.";
+"QUOTEFOUND_CURRRENT" = "
+
+L'oggetto contiene delle virgolette, quindi non verrà processato.
+Rinominalo e riprova.";
+
+"MULTIPARERROR" = "La creation id PARchivi con pi id un elemento non è attualmente supportato.";
+"OTHERTHAN7ZERROR" = "Devi registrarti per creare archivi che non siano 7z.";
+"NOSPLITAMOUNT" = "Non è stato specificato un valore per lo split.";
+"ALREADYREG" = "Ti sei già registrato.";
+"MULTIDROPDOCK" = "All'icona nel dock non pica che vengano trascinati elementi multipli.";
+"NOTCONNECTED" = "Connettere il computer ad internet, prego.";
+"UPDATESITEDOWN" = "Il sit per la verifica update è irraggiungibile.";
+"RUNNINGNEWEST" = "Stai utilizzando la versione più recente.";
+"DOWNLOADINGTODESKTOP" = "Download sul desktop...";
+"DOWNLOADINGTODESKTOP2" = "anchor 50% per finire.";
+"CURRENTVERSION" = "La versione attuale è";
+"YOURVERSIONTEXT" = "Stai utilizzando la versione";
+"ABOUTWINDOWTEXT" = "Creato da Leif Heflin
+
+Powered by:
+ 7za 9.04 da web.me.com/krmathis
+ unRAR 3.6 © Alexander Roshal
+ PAR2 0.4 © Peter Brian Clements
+ bzip2 1.0.5 © Julian Seward
+
+Traduzione: Nicola Canepa
+ 
+Icona per elementi multipli di Pierre Morin";
+"ABOUTTEXT1" = "tu e gli altri";
+"ABOUTTEXT2" = "i";
+"ABOUTTEXT3" = "molti";
+
+"QUOTESERROR0" = "Gli element con urn ' non possono essere elaborati da Ez7z per ora...";
+"QUOTESERROR1" = " nessuno dei tuoi elementi sarà elaborato.";
+"QUOTESERROR2" = " elementi non saranno elaborati.";
+"QUOTESERROR3" = " questo elemento non sarà elaborato.";
+"QUOTESERROR4" = " 1 elemento non sarà elaborato.";

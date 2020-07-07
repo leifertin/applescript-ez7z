@@ -1,0 +1,71 @@
+/* Buttons & Menus */
+"GO_TEXT" = "Los";
+"NEXT_TEXT" = "Nächstes";
+"CLOSE_TEXT" = "Schließen";
+"YES_TEXT" = "Ja";
+"LAME_TEXT" = "Lahm";
+"OKAY_TEXT" = "Okay";
+"WEIRD_TEXT" = "Bizzar";
+"CANCEL_TEXT" = "Abbrechen";
+"DOWNLOAD_TEXT" = "Laden";
+"SAVE_AS_TEXT" = "Sichern unter...";
+"VIEW_SERIAL_NUMBER_TEXT" = "Seriennummer anzeigen";
+"ENTER_SERIAL_NUMBER_TEXT" = "Seriennummer eintragen";
+"DELETE_TEXT" = "Entfernen";
+
+/* Dialogs */
+"ITEM1OF1TEXT" = "Element 1 von 1";
+"ITEMCOUNTTEXT" = "2 Elemente";
+"MULTIPLEITEMVIEWERROR" = "Sie können nur ein Archiv gleichzeitig ansehen.";
+"DROPMULTINONREG" = "Sie müssen sich registrieren um mehrere Elemente hierher bewegen zu können.";
+"DEFAULTDROPTEXT" = "Elemente hierher bewegen.";
+"CLEARREGWARNING" = "Sind Sie sicher, dass Sie Ihre Registrierungsdaten löschen wollen?";
+"FORGOTITEM" = "Sie haben kein Element zur Verarbeitung bereit gestellt.";
+"NOPASSPROVIDED" = "Es wurde kein Passwort eingegeben.";
+"DELETEFROMRARERROR" = "Das Löschen von Dateien innerhalb eines RAR–Archives wird zur Zeit nicht unterstützt.";
+"MULTIPARERROR" = "Das Erstellen von PAR–Archiven aus mehreren Elementen wird zur Zeit nicht unterstützt.";
+"TOGGLEUNRAR" = "Zeige die \"benutze unRAR\" Checkbox in den Einstellungen.";
+"CREATEPROGRESS" = "Initialisiere den Fortschrittsbalken...";
+"NONVIEWITEM" = "Sie können nur Archive anzeigen lassen.";
+
+"FILECORRUPT" = "Dieses Archiv ist beschädigt.";
+"PROCESSING_TEXT" = "Verarbeitet...";
+"IDLE_TEXT" = "Unbeschäftigt.";
+"WRONG_PASSWORD" = "Falsches Passwort.";
+"EZ7Z_SITEDOWN" = "Der Webserver zum Ermitteln von Benutzern ist nicht erreichbar.";
+"QUOTEFOUND_CURRRENT" = "
+
+Dieses Element wird aufgrund eines Anführungszeichens im Namen nicht verarbeitet.
+Benennen Sie es um und versuchen Sie es erneut.";
+
+"OTHERTHAN7ZERROR" = "Sie müssen sich registrieren um andere Archive außer .7z erstellen zu können.";
+"NOSPLITAMOUNT" = "Keine Anzahl an Archiv-Teilen eingegeben.";
+"ALREADYREG" = "Sie haben sich bereits registriert.";
+"MULTIDROPDOCK" = "Sie können nicht mehr als ein Element auf das Dock–Icon bewegen.";
+"NOTCONNECTED" = "Bitte stellen Sie eine Verbindung zum Internet her.";
+"UPDATESITEDOWN" = "Der Aktualisierungs–Server ist zur Zeit nicht erreichbar.";
+"RUNNINGNEWEST" = "Sie verwenden bereits die aktuellste Version.";
+"DOWNLOADINGTODESKTOP" = "Lädt auf den Schreibtisch...";
+"DOWNLOADINGTODESKTOP2" = "noch 50% zu laden.";
+"CURRENTVERSION" = "Die aktuelle Version ist";
+"YOURVERSIONTEXT" = "Sie verwenden Version";
+"ABOUTWINDOWTEXT" = "Erstellt von Leif Heflin
+
+Unterstützt von:
+ 7za 9.04 von web.me.com/krmathis
+ unRAR 3.6 © Alexander Roshal
+ PAR2 0.4 © Peter Brian Clements
+ bzip2 1.0.5 © Julian Seward
+
+Lokalisierungen: Felix Rupp
+ 
+Icon für mehrere Elemente von Pierre Morin";
+"ABOUTTEXT1" = "Sie und die anderen";
+"ABOUTTEXT2" = "der";
+"ABOUTTEXT3" = "viele";
+
+"QUOTESERROR0" = "Elemente mit einem ' können zur Zeit noch nicht verarbeitet werden...";
+"QUOTESERROR1" = " keines Ihrer Elemente wird verarbeitet werden.";
+"QUOTESERROR2" = " Elemente werden nicht verarbeitet werden.";
+"QUOTESERROR3" = " dieses Element wird nicht verarbeitet werden.";
+"QUOTESERROR4" = " 1 Element wird nicht verarbeitet werden.";

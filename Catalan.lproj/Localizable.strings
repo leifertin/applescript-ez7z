@@ -1,0 +1,72 @@
+/* Buttons & Menus */
+"GO_TEXT" = "Comença";
+"NEXT_TEXT" = "Següent";
+"CLOSE_TEXT" = "Tanca";
+"YES_TEXT" = "Si";
+"LAME_TEXT" = "Lame";
+"OKAY_TEXT" = "D'acord";
+"WEIRD_TEXT" = "Estrany";
+"CANCEL_TEXT" = "Cancel·la";
+"DOWNLOAD_TEXT" = "Descarrega";
+"SAVE_AS_TEXT" = "Desa com...";
+"VIEW_SERIAL_NUMBER_TEXT" = "Visualitzar número de sèrie";
+"ENTER_SERIAL_NUMBER_TEXT" = "Introduir número de sèrie";
+"DELETE_TEXT" = "Esborra";
+
+/* Dialogs */
+"ITEM1OF1TEXT" = "Ítem 1 de 1";
+"ITEMCOUNTTEXT" = "2 ítems";
+"MULTIPLEITEMVIEWERROR" = "Només pots veure un arxiu a la vegada.";
+"DROPMULTINONREG" = "Per arrossegar múltiples arxius, has d'estar registrat.";
+"DEFAULTDROPTEXT" = "Arrossega alguna cosa aquí.";
+"CLEARREGWARNING" = "Estàs segur que vols esborrar les dades de registre?";
+"FORGOTITEM" = "Has oblidat afegir un element per processar.";
+"NOPASSPROVIDED" = "No s'ha facilitat cap contrassenya.";
+"DELETEFROMRARERROR" = "Esborrar fitxers dins d'un arxiu RAR no està suportat.";
+"MULTIPARERROR" = "La creació d'arxius PAR amb múltiples ítems d'entrada no està suportat.";
+"TOGGLEUNRAR" = "Canvia l'opció \"utilitza unRAR\" a les preferències.";
+"CREATEPROGRESS" = "Inicialitzant barra de progrès…";
+"NONVIEWITEM" = "Només pots visualitzar arxius.";
+
+"FILECORRUPT" = "L'arxiu està corrupte.";
+"PROCESSING_TEXT" = "Processant…";
+"IDLE_TEXT" = "En espera.";
+"WRONG_PASSWORD" = "Contrasenya incorrecta.";
+"EZ7Z_SITEDOWN" = "El servidor web en que Ez7z confia per determinar els usuaris ha caigut.";
+"QUOTEFOUND_CURRRENT" = "
+
+Aquest item té una referència en ell, no serà processat.
+Reanomeneu-lo i proveu de nou.";
+
+"OTHERTHAN7ZERROR" = "Has d'estar registrat per crear arxius amb un format diferent a 7z.";
+"NOSPLITAMOUNT" = "No s'ha especificat la quantitat per seccionar.";
+"ALREADYREG" = "Ja estas registrat.";
+"MULTIDROPDOCK" = "A l'icona del Dock no li agrada que arrosseguin varis arxius sobre ella.";
+"NOTCONNECTED" = "Siusplau connecta el teu ordinador a Internet.";
+"UPDATESITEDOWN" = "El web d'actualització sembla estar caigut.";
+"RUNNINGNEWEST" = "Tens la versió més nova.";
+"DOWNLOADINGTODESKTOP" = "Descarregant a l'escriptori...";
+"DOWNLOADINGTODESKTOP2" = "50% més per acabar.";
+"CURRENTVERSION" = "La versió actual és";
+"YOURVERSIONTEXT" = "Utilitzes la versió";
+
+"ABOUTWINDOWTEXT" = "Creat per Leif Heflin
+
+Juntament amb:
+ 7za 9.04 de web.me.com/krmathis
+ unRAR 3.6 © Alexander Roshal
+ PAR2 0.4 © Peter Brian Clements
+ bzip2 1.0.5 © Julian Seward
+
+Traducció: Marc Herrero
+
+Icona de múltiples elements per Pierre Morin";
+"ABOUTTEXT1" = "tu i els altres";
+"ABOUTTEXT2" = "el";
+"ABOUTTEXT3" = "molt";
+
+"QUOTESERROR0" = "De moment els elements amb ' no poden ser processats per Ez7z...";
+"QUOTESERROR1" = " cap arxiu proporcionat pot ser processat.";
+"QUOTESERROR2" = " els elements no poden processar-se.";
+"QUOTESERROR3" = " aquest element no pot ser processat.";
+"QUOTESERROR4" = " 1 element no es pot processar.";

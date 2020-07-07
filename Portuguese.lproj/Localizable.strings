@@ -1,0 +1,72 @@
+/* Buttons & Menus */
+"GO_TEXT" = "Ir";
+"NEXT_TEXT" = "Próximo";
+"CLOSE_TEXT" = "Fechar";
+"YES_TEXT" = "Sim";
+"LAME_TEXT" = "Lame";
+"OKAY_TEXT" = "OK";
+"WEIRD_TEXT" = "Estranho";
+"CANCEL_TEXT" = "Cancelar";
+"DOWNLOAD_TEXT" = "Download";
+"SAVE_AS_TEXT" = "Salvar Como...";
+"VIEW_SERIAL_NUMBER_TEXT" = "Ver número serial";
+"ENTER_SERIAL_NUMBER_TEXT" = "Digite número serial";
+"DELETE_TEXT" = "Apagar";
+
+/* Dialogs */
+"ITEM1OF1TEXT" = "Item 1 de 1";
+"ITEMCOUNTTEXT" = "2 itens";
+"MULTIPLEITEMVIEWERROR" = "Você só pode ver uma arquivo por vez.";
+"DROPMULTINONREG" = "Para arrastar múltiplos itens, você deve registrar-se.";
+"DEFAULTDROPTEXT" = "Arraste algo aqui.";
+"CLEARREGWARNING" = "Você realmente quer limpar o seu registro?";
+"FORGOTITEM" = "Você se esqueceu de informar um item para processar.";
+"NOPASSPROVIDED" = "Não foi informada nenhuma senha.";
+"DELETEFROMRARERROR" = "Não há suporte para apagar arquivos dentro de um arquivo do tipo RAR.";
+"MULTIPARERROR" = "Criar arquivos PAR através de múltiplos itens não é suportado atualmente.";
+"TOGGLEUNRAR" = "Selecione o  checkbox \"use unRAR\" nas preferências.";
+"CREATEPROGRESS" = "Inicializando a barra de progresso...";
+"NONVIEWITEM" = "Você pode apenas visualizar os arquivos.";
+
+"FILECORRUPT" = "Este arquivo está corrompido.";
+"PROCESSING_TEXT" = "Ocupado...";
+"IDLE_TEXT" = "Pronto.";
+"WRONG_PASSWORD" = "Senha incorreta.";
+"EZ7Z_SITEDOWN" = "O servidor web usado pelo Ez7z para verificar os usuários está fora do ar";
+"QUOTEFOUND_CURRRENT" = "
+
+Este item possuí um quote sendo assim ele não será processado
+Renomeá-lo e tentar novamente";
+
+"OTHERTHAN7ZERROR" = "Para criar arquivos 7z você precisa se registrar.";
+"NOSPLITAMOUNT" = "Não foi informado um valor para o split.";
+"ALREADYREG" = "Você já possuí o registro.";
+"MULTIDROPDOCK" = "O ícone do Dock não permite múltiplos itens sendo arrastados.";
+"NOTCONNECTED" = "Por favor, conecte seu computador a Internet.";
+"UPDATESITEDOWN" = "O site para checagem do update está fora do ar.";
+"RUNNINGNEWEST" = "Você está usando a última versão.";
+"DOWNLOADINGTODESKTOP" = "Copiando para o desktop...";
+"DOWNLOADINGTODESKTOP2" = "falta 50% ainda.";
+"CURRENTVERSION" = "A versão atual é";
+"YOURVERSIONTEXT" = "Você está executando a versão";
+
+"ABOUTWINDOWTEXT" = "Criado por Leif Heflin
+
+Powered by:
+ 7za 9.04 from web.me.com/krmathis
+ unRAR 3.6 © Alexander Roshal
+ PAR2 0.4 © Peter Brian Clements
+ bzip2 1.0.5 © Julian Seward
+
+Tradução: LH
+ 
+Ícone de itens múltiplos por Pierre Morin";
+"ABOUTTEXT1" = "você e os outros";
+"ABOUTTEXT2" = "os(as)";
+"ABOUTTEXT3" = "muitos";
+
+"QUOTESERROR0" = "Itens com um(a) ' não podem ser processados pelo Ez7z a partir de agora...";
+"QUOTESERROR1" = " nenhum dos seus itens serão processados.";
+"QUOTESERROR2" = " itens não serão processados.";
+"QUOTESERROR3" = " este item não será processado.";
+"QUOTESERROR4" = " 1 item não será processado.";

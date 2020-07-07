@@ -1,0 +1,71 @@
+/* Buttons & Menus */
+"GO_TEXT" = "Exécuter";
+"NEXT_TEXT" = "Ensuite";
+"CLOSE_TEXT" = "Fermer";
+"YES_TEXT" = "Oui";
+"LAME_TEXT" = "Faible";
+"CANCEL_TEXT" = "Annuler";
+"OKAY_TEXT" = "D'accord";
+"WEIRD_TEXT" = "Étrange";
+"DOWNLOAD_TEXT" = "Téléchargement";
+"SAVE_AS_TEXT" = "Enregistrer sous...";
+"VIEW_SERIAL_NUMBER_TEXT" = "Voir le numéro de série";
+"ENTER_SERIAL_NUMBER_TEXT" = "Écrivez le numéro de série";
+"DELETE_TEXT" = "Supprimer";
+
+/* Dialogs */
+"ITEM1OF1TEXT" = "Élément 1 sur 1";
+"ITEMCOUNTTEXT" = "2 éléments";
+"MULTIPLEITEMVIEWERROR" = "Vous ne pouvez visualiser qu'une seule archive à la fois.";
+"DROPMULTINONREG" = "Pour glisser plusieurs éléments, vous devez enregistrer le logiciel.";
+"DEFAULTDROPTEXT" = "Déposer quelque chose ici.";
+"CLEARREGWARNING" = "Êtes-vous sûr(e) de vouloir supprimer votre enregistrement?";
+"NOPASSPROVIDED" = "Aucun mot de passe n'a été fourni.";
+"FORGOTITEM" = "Vous avez oublié de donner un élément au processus.";
+"DELETEFROMRARERROR" = "La suppression de fichiers dans un fichier RAR n'est pas supportée pour le moment.";
+"NONVIEWITEM" = "Vous ne pouvez visualiser que les archives.";
+"TOGGLEUNRAR" = "Inverser la case à cocher \"Utiliser unRAR\" dans les préférences.";
+"CREATEPROGRESS" = "Initialisation de la barre d'avancement...";
+
+"FILECORRUPT" = "Cette archive est corrompue.";
+"PROCESSING_TEXT" = "Traitement...";
+"IDLE_TEXT" = "Arrêté.";
+"WRONG_PASSWORD" = "Mot de passe incorrect.";
+"EZ7Z_SITEDOWN" = "Le serveur utilisé par Ez7z pour gérer les licences utilisateurs est inaccessible.";
+"QUOTEFOUND_CURRRENT" = "
+
+Cet élément a un guillemet dans le nom et ne sera pas traité.
+Renommez-le et essayez de nouveau.";
+
+"MULTIPARERROR" = "La création d'archives PAR2 de plusieurs éléments n'est pas supportée pour le moment.";
+"OTHERTHAN7ZERROR" = "Vous devez enregistrer le logiciel pour pouvoir créer des archives d'un autre format que 7z.";
+"NOSPLITAMOUNT" = "Aucun nombre fourni pour le découpage du fichier.";
+"ALREADYREG" = "Vous avez déjà enregistré le logiciel.";
+"MULTIDROPDOCK" = "L'icône du Dock n'aime pas qu'on lui dépose plusieurs éléments.";
+"NOTCONNECTED" = "Merci de connecter votre ordinateur à Internet.";
+"UPDATESITEDOWN" = "Le site de vérification de mises à jour est tombé.";
+"RUNNINGNEWEST" = "Vous utilisez la dernière version.";
+"DOWNLOADINGTODESKTOP" = "Téléchargement sur le bureau...";
+"DOWNLOADINGTODESKTOP2" = "50% restant.";
+"CURRENTVERSION" = "La dernière version est la";
+"YOURVERSIONTEXT" = "Vous utilisez la version";
+"ABOUTWINDOWTEXT" = "Créé par Leif Heflin
+
+Fonctionne avec:
+ 7za 9.04 de web.me.com/krmathis
+ unRAR 3.6 © Alexander Roshal
+ PAR2 0.4 © Peter Brian Clements
+ bzip2 1.0.5 © Julian Seward
+
+Traduction: Pierre Morin, Frederic Brutin
+
+Icône \"éléments multiples\" par Pierre Morin";
+"ABOUTTEXT1" = "à vous et aux";
+"ABOUTTEXT2" = "aux";
+"ABOUTTEXT3" = "nombreux";
+
+"QUOTESERROR0" = "Les éléments avec un ' ne peuvent pas être traités par Ez7z pour le moment...";
+"QUOTESERROR1" = " Aucun de vos éléments ne seront traités.";
+"QUOTESERROR2" = " éléments ne seront pas traités.";
+"QUOTESERROR3" = " Cet élément ne sera pas traité.";
+"QUOTESERROR4" = " 1 élément ne sera pas traité.";

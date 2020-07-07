@@ -1,0 +1,71 @@
+/* Buttons & Menus */
+"GO_TEXT" = "Starten";
+"NEXT_TEXT" = "Volgende";
+"CLOSE_TEXT" = "Sluiten";
+"YES_TEXT" = "Ja";
+"LAME_TEXT" = "Dat is balen";
+"OKAY_TEXT" = "OK";
+"WEIRD_TEXT" = "Vaag";
+"CANCEL_TEXT" = "Annuleren";
+"DOWNLOAD_TEXT" = "Download";
+"SAVE_AS_TEXT" = "Bewaren als...";
+"VIEW_SERIAL_NUMBER_TEXT" = "Bekijk Serie Nummer";
+"ENTER_SERIAL_NUMBER_TEXT" = "Voer Serie Nummer in";
+"DELETE_TEXT" = "Verwijderen";
+
+/* Dialogs */
+"ITEM1OF1TEXT" = "Item 1 van 1";
+"ITEMCOUNTTEXT" = "2 items";
+"MULTIPLEITEMVIEWERROR" = "Er kan maar 1 item tegelijk worden verwerkt.";
+"DROPMULTINONREG" = "Registreer eerst om meerdere items tegelijk te kunnen verwerken.";
+"DEFAULTDROPTEXT" = "Sleep hier een item heen.";
+"CLEARREGWARNING" = "Registratiegegevens verwijderen?";
+"FORGOTITEM" = "Selecteer eerst een item om te verwerken.";
+"NOPASSPROVIDED" = "Geen wachtwoord opgegeven.";
+"DELETEFROMRARERROR" = "Het verwijderen van bestanden in een ingepakt bestand wordt bij RAR-archieven niet ondersteund.";
+"MULTIPARERROR" = "Het maken van PAR-bestanden voor verschillende/meerdere bestanden wordt momenteel niet ondersteund.";
+"TOGGLEUNRAR" = "Wijzig de optie \"gebruik unRAR\" aan/uit in het menu 'Voorkeuren'.";
+"CREATEPROGRESS" = "Berekenen van resterende tijd...";
+"NONVIEWITEM" = "Alleen archiefbestanden kunnen worden bekeken.";
+
+"FILECORRUPT" = "Onbekend bestand of bestand is beschadigd/incompleet.";
+"PROCESSING_TEXT" = "Bezig met verwerken...";
+"IDLE_TEXT" = "Idle.";
+"WRONG_PASSWORD" = "Onjuist wachtwoord.";
+"EZ7Z_SITEDOWN" = "De webserver welke Ez7z gebruikt om vast te stellen of u een geregistreerde gebruiker bent is momenteel offline.";
+"QUOTEFOUND_CURRRENT" = "
+
+Items met quote-teken in de bestandsnaam worden niet verwerkt.
+Hernoem bestandsnaam en probeer opnieuw.";
+
+"OTHERTHAN7ZERROR" = "Registreer eerst om een ander formaat als '7z bestanden' te kunnen aanmaken";
+"NOSPLITAMOUNT" = "Geef eerst de bestandsgrootte op om het bestand in te splitsen.";
+"ALREADYREG" = "Je bent al geregistreerd.";
+"MULTIDROPDOCK" = "Meerdere items tegelijk verwerken vindt ik niet zo leuk.";
+"NOTCONNECTED" = "De computer is niet verbonden met het internet. Er kan geen verbinding worden gemaakt.";
+"UPDATESITEDOWN" = "Het is momenteel even niet mogelijk een update uit te voeren. Probeer later nog eens.";
+"RUNNINGNEWEST" = "Er is geen nieuwe versie beschikbaar. Je gebruikt de nieuwste versie.";
+"DOWNLOADINGTODESKTOP" = "Bezig met downloaden naar bureaublad…";
+"DOWNLOADINGTODESKTOP2" = "50% te gaan.";
+"CURRENTVERSION" = "Het huidige versienummer is";
+"YOURVERSIONTEXT" = "Het versienummer van welke u gebruikt is";
+"ABOUTWINDOWTEXT" = "Programma geschreven door Leif Heflin
+
+Powered by:
+ 7za 9.04 from web.me.com/krmathis
+ unRAR 3.6 © Alexander Roshal
+ PAR2 0.4 © Peter Brian Clements
+ bzip2 1.0.5 © Julian Seward
+
+Vertaling: Edwin Noort
+
+\"Meerdere items pictogram\" door Pierre Morin";
+"ABOUTTEXT1" = "jij en de andere";
+"ABOUTTEXT2" = "de";
+"ABOUTTEXT3" = "vele";
+
+"QUOTESERROR0" = "Items met een ' kunnen momenteel niet door Ez7z worden verwerkt...";
+"QUOTESERROR1" = " geen van de items worden verwerkt.";
+"QUOTESERROR2" = " items worden niet verwerkt.";
+"QUOTESERROR3" = " dit item zal niet worden verwerkt.";
+"QUOTESERROR4" = " 1 item zal niet worden verwerkt.";

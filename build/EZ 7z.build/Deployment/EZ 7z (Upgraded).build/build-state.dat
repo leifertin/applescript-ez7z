@@ -1,0 +1,1401 @@
+TeZ 7z (Upgraded)
+v7
+r0
+t280097632.491240
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Info.plist" Info-EZ_7z__Upgraded_.plist
+cOSACompile "build/Deployment/eZ 7z.app/Contents/Resources/Scripts/EZ 7z.scpt" "EZ 7z.applescript"
+cStripNIB "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/English.lproj/MainMenu.nib"
+cCopyStringsFile "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCpResource "build/Deployment/eZ 7z.app/Contents/Resources/7za" 7za
+cCpResource "build/Deployment/eZ 7z.app/Contents/Resources/ez7zappBW.icns" ez7zappBW.icns
+cCpResource "build/Deployment/eZ 7z.app/Contents/Resources/blackBox.gif" blackBox.gif
+cCpResource "build/Deployment/eZ 7z.app/Contents/Resources/whiteBox.gif" whiteBox.gif
+cCpResource "build/Deployment/eZ 7z.app/Contents/Resources/blackWOutline.jpg" blackWOutline.jpg
+cCpResource "build/Deployment/eZ 7z.app/Contents/Resources/001.icns" 001.icns
+cCpResource "build/Deployment/eZ 7z.app/Contents/Resources/7z.icns" 7z.icns
+cCpResource "build/Deployment/eZ 7z.app/Contents/Resources/bz2.icns" bz2.icns
+cCpResource "build/Deployment/eZ 7z.app/Contents/Resources/gz.icns" gz.icns
+cCpResource "build/Deployment/eZ 7z.app/Contents/Resources/rar.icns" rar.icns
+cCpResource "build/Deployment/eZ 7z.app/Contents/Resources/tar.icns" tar.icns
+cCpResource "build/Deployment/eZ 7z.app/Contents/Resources/zip.icns" zip.icns
+cCpResource "build/Deployment/eZ 7z.app/Contents/Resources/unrar" unrar
+cCpResource "build/Deployment/eZ 7z.app/Contents/Resources/par2" par2
+cCpResource "build/Deployment/eZ 7z.app/Contents/Resources/par2ic.icns" par2ic.icns
+cCompileC "build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/ppc/main.o" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/ppc/eZ 7z" normal ppc
+cCompileC "build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/i386/main.o" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/i386/eZ 7z" normal i386
+cCreateUniversalBinary "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/MacOS/eZ 7z" normal "ppc i386"
+cTouch "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app"
+
+N/Developer/SDKs/MacOSX10.4u.sdk
+c0000000046F6F1A000000000000000EE
+t1190588832
+s238
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/mach-o/dyld.h
+c0000000045C03A8F0000000000002BE8
+t1170225807
+s11240
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004AA2D94000000000000000EE
+t1252186432
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/mach-o/dyld.h
+c00000000487581E60000000000003D74
+t1215660518
+s15732
+
+N/System/Library/Frameworks/AppleScriptKit.framework/AppleScriptKit
+c000000004A1F2E5D00000000001BBC30
+t1243557469
+s1817648
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/001.icns
+c000000004AB95A2E000000000000E5CE
+t1253661230
+s58830
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/7z.icns
+c000000004AB95A41000000000000CD0E
+t1253661249
+s52494
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/7za
+c000000004A6312D700000000003461D4
+t1248006871
+s3432916
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/EZ 7z.applescript
+c000000004B01BC96000000000000B0BC
+t1258405014
+s45244
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/English.lproj/InfoPlist.strings
+c000000004AC53C590000000000000180
+t1254440025
+s384
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/English.lproj/MainMenu.nib
+c000000004B01BF0A0000000000000088
+t1258405642
+s136
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/Z.icns
+c000000004AB95B2C000000000000C200
+t1253661484
+s49664
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/archive.icns
+c000000004AB7D19C000000000000FAA4
+t1253560732
+s64164
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/arj.icns
+c000000004AB95A4E000000000000D313
+t1253661262
+s54035
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackBox.gif
+c000000004AAE8F3A000000000000002B
+t1252953914
+s43
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackLineBG.gif
+c000000004AAE95BA00000000000004AF
+t1252955578
+s1199
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackLineBG2.gif
+c000000004AAE96CD00000000000004C4
+t1252955853
+s1220
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackLineBG3.gif
+c000000004AAE97FE000000000000048F
+t1252956158
+s1167
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackLineBG4.gif
+c000000004AAE9AD400000000000004AF
+t1252956884
+s1199
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackLineBG5.gif
+c000000004AAE9AE100000000000004AF
+t1252956897
+s1199
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackWOutline.jpg
+c000000004AAF48CF00000000000009B2
+t1253001423
+s2482
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app
+t1257671612
+s102
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Info.plist
+t1257671611
+s4538
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/MacOS/EZ 7z
+t1257671612
+s38260
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/PkgInfo
+t1257671611
+s8
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/001.icns
+t1257671612
+s58830
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/7z.icns
+t1257671612
+s52494
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/7za
+t1257671612
+s3432944
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1257671612
+s384
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/English.lproj/MainMenu.nib
+t1257554533
+s136
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/Scripts/EZ 7z.scpt
+t1257671611
+s59584
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/Z.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/archive.icns
+t1253560958
+s64164
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/arj.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/blackBox.gif
+t1257671612
+s43
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/blackLineBG.gif
+t1252956380
+s1199
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/blackLineBG2.gif
+t1252956380
+s1220
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/blackLineBG3.gif
+t1252956380
+s1167
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/blackLineBG4.gif
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/blackLineBG5.gif
+t1252956946
+s1199
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/blackWOutline.jpg
+t1257671612
+s2482
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/bz2.icns
+t1257671612
+s57685
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/cab.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/chm.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/cpio.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/deb.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/dmg.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/ez 001.icns
+t1253561228
+s36656
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/ez bz2.icns
+t1253561228
+s35854
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/ez gz.icns
+t1253561228
+s35786
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/ez tar.icns
+t1253561228
+s33918
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/ez zip.icns
+t1253561228
+s34359
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/ez7zappBW.icns
+t1257671612
+s57293
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/ez7zfiles.icns
+t1253561228
+s33437
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/gz.icns
+t1257671612
+s53140
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/hfs.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/iso.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/lzh.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/lzma.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/mainApp.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/msi.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/nsis.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/par2
+t1257671612
+s518664
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/par2.icns
+t1255627876
+s61318
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/par2ic.icns
+t1257671612
+s61318
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/rar.icns
+t1257671612
+s54275
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/rpm.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/tar.icns
+t1257671612
+s54547
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/udf.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/unrar
+t1257671612
+s378648
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/whiteBox.gif
+t1257671611
+s43
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/wim.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/xar.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/zip.icns
+t1257671612
+s55200
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Info.plist
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/MacOS/Ez7z
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/PkgInfo
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/001.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/7z.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/7za
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/Scripts/EZ 7z.scpt
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/blackBox.gif
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/blackWOutline.jpg
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/bz2.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/ez7zappBW.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/gz.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/par2
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/par2ic.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/rar.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/tar.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/unrar
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/whiteBox.gif
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/zip.icns
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app
+t1258404832
+s102
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Info.plist
+t1257671611
+s4538
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/MacOS/eZ 7z
+t1257671612
+s38260
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/PkgInfo
+t1257671611
+s8
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/001.icns
+t1257671612
+s58830
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/7z.icns
+t1257671612
+s52494
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/7za
+t1257671612
+s3432944
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1257671612
+s384
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/English.lproj/MainMenu.nib
+t1258404379
+s136
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/Scripts/EZ 7z.scpt
+t1258404832
+s55184
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/blackBox.gif
+t1257671612
+s43
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/blackWOutline.jpg
+t1257671612
+s2482
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/bz2.icns
+t1257671612
+s57685
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/ez7zappBW.icns
+t1257671612
+s57293
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/gz.icns
+t1257671612
+s53140
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/par2
+t1257671612
+s518664
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/par2ic.icns
+t1257671612
+s61318
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/rar.icns
+t1257671612
+s54275
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/tar.icns
+t1257671612
+s54547
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/unrar
+t1257671612
+s378648
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/whiteBox.gif
+t1257671611
+s43
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/zip.icns
+t1257671612
+s55200
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/i386/EZ 7z
+t1252187109
+s17780
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/i386/EZ 7z.LinkFileList
+c000000004A85EB1A000000000000007F
+t1250290458
+s127
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/i386/Ez7z
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/i386/Ez7z.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/i386/eZ 7z
+t1252187109
+s17780
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/i386/eZ 7z.LinkFileList
+c000000004A85EB1A000000000000007F
+t1250290458
+s127
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/i386/main.o
+t1250282343
+s4320
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/ppc/EZ 7z
+t1252187109
+s14840
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/ppc/EZ 7z.LinkFileList
+c000000004A85EB1A000000000000007E
+t1250290458
+s126
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/ppc/Ez7z
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/ppc/Ez7z.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/ppc/eZ 7z
+t1252187109
+s14840
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/ppc/eZ 7z.LinkFileList
+c000000004A85EB1A000000000000007E
+t1250290458
+s126
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/ppc/main.o
+t1250282343
+s4832
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/bz2.icns
+c000000004AB95A5B000000000000E155
+t1253661275
+s57685
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/cab.icns
+c000000004AB95A68000000000000D884
+t1253661288
+s55428
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/chm.icns
+c000000004AB95A74000000000000E1F1
+t1253661300
+s57841
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/cpio.icns
+c000000004AB95A83000000000000E082
+t1253661315
+s57474
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/deb.icns
+c000000004AB95A8F000000000000D9FE
+t1253661327
+s55806
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/dmg.icns
+c000000004AB95A9D000000000000E7CD
+t1253661341
+s59341
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez 001.icns
+c000000004A88547B0000000000008F30
+t1250448507
+s36656
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez bz2.icns
+c000000004A88449A0000000000008C0E
+t1250444442
+s35854
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez gz.icns
+c000000004A8844A70000000000008BCA
+t1250444455
+s35786
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez tar.icns
+c000000004A884445000000000000847E
+t1250444357
+s33918
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez zip.icns
+c000000004A8844730000000000008637
+t1250444403
+s34359
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez7zappBW.icns
+c000000004A8F5E06000000000000DFCD
+t1250909702
+s57293
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez7zfiles.icns
+c000000004A86C4C7000000000000829D
+t1250346183
+s33437
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/gz.icns
+c000000004AB95AA6000000000000CF94
+t1253661350
+s53140
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/hfs.icns
+c000000004AB95AB2000000000000DE13
+t1253661362
+s56851
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/iso.icns
+c000000004AB95ABB000000000000D328
+t1253661371
+s54056
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/lzh.icns
+c000000004AB95AC3000000000000DAC3
+t1253661379
+s56003
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/lzma.icns
+c000000004AB95ACD000000000000EDB3
+t1253661389
+s60851
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/main.m
+c000000004307B95800000000000001B2
+t1124579672
+s434
+i<mach-o/dyld.h>
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/mainApp.icns
+c000000004AB7D1B40000000000012BE9
+t1253560756
+s76777
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/msi.icns
+c000000004AB95ADA000000000000DBE9
+t1253661402
+s56297
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/nsis.icns
+c000000004AB95AEB000000000000E266
+t1253661419
+s57958
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/par2
+c0000000048902926000000000007EA04
+t1217407270
+s518660
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/par2.icns
+c000000004AC53BE4000000000000EF86
+t1254439908
+s61318
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/par2ic.icns
+c000000004AC53BE4000000000000EF86
+t1254439908
+s61318
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/rar.icns
+c000000004AB95AF3000000000000D403
+t1253661427
+s54275
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/rpm.icns
+c000000004AB95AFE000000000000DFC9
+t1253661438
+s57289
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/tar.icns
+c000000004AB95B06000000000000D513
+t1253661446
+s54547
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/udf.icns
+c000000004AB95B12000000000000DB53
+t1253661458
+s56147
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/unrar
+c0000000044ADCD6A000000000005C700
+t1152241002
+s378624
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/whiteBox.gif
+c000000004AAE9850000000000000002B
+t1252956240
+s43
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/wim.icns
+c000000004AB95B1A000000000000E6AC
+t1253661466
+s59052
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/xar.icns
+c000000004AB95B25000000000000D738
+t1253661477
+s55096
+
+N/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/zip.icns
+c000000004AB95B35000000000000D7A0
+t1253661493
+s55200
+
+NInfo-EZ_7z__Upgraded_.plist
+c000000004AF4B44200000000000011BA
+t1257550914
+s4538
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies280097631#280097631#0(0"0(0#1#0"2516469872#0"0#
+
+CCompileC "build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/i386/main.o" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/ppc/main.o" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCopyStringsFile "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s279364411.850601
+e279364412.361810
+r1
+xCopyStringsFile
+x/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings279364411#279364412#0(0"0(0#0#79"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/English.lproj/InfoPlist.strings2433158464#391"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/English.lproj"0#
+
+CCopyStringsFile "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/001.icns" 001.icns
+s279364411.931950
+e279364412.024725
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/001.icns
+x001.icns
+lSLF07#2@13"Copy 001.icns279364411#279364412#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/001.icns2433158464#381"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/001.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/7z.icns" 7z.icns
+s279364411.933943
+e279364412.031997
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/7z.icns
+x7z.icns
+lSLF07#2@12"Copy 7z.icns279364411#279364412#0(0"0(0#0#55"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/7z.icns2433158464#380"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/7z.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/7za" 7za
+s279364411.924391
+e279364412.811439
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/7za
+x7za
+lSLF07#2@8"Copy 7za279364411#279364412#0(0"0(0#0#51"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/7za2433158464#376"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/7za" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/Z.icns" Z.icns
+s275588153.570967
+e275588153.664217
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/Z.icns
+xZ.icns
+lSLF07#2@11"Copy Z.icns275588153#275588153#0(0"0(0#0#54"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/Z.icns2477935936#379"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/Z.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/archive.icns" archive.icns
+s275253758.631888
+e275253758.651423
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/archive.icns
+xarchive.icns
+lSLF07#2@17"Copy archive.icns275253758#275253758#0(0"0(0#0#60"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/archive.icns2477935936#385"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/archive.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/arj.icns" arj.icns
+s275588153.292302
+e275588153.441628
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/arj.icns
+xarj.icns
+lSLF07#2@13"Copy arj.icns275588153#275588153#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/arj.icns2477935936#381"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/arj.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/blackBox.gif" blackBox.gif
+s279364411.927183
+e279364412.050072
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/blackBox.gif
+xblackBox.gif
+lSLF07#2@17"Copy blackBox.gif279364411#279364412#0(0"0(0#0#60"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackBox.gif2433158464#385"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackBox.gif" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/blackLineBG.gif" blackLineBG.gif
+s274649180.154524
+e274649180.176871
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/blackLineBG.gif
+xblackLineBG.gif
+lSLF07#2@20"Copy blackLineBG.gif274649180#274649180#0(0"0(0#0#63"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackLineBG.gif2441166144#388"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackLineBG.gif" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/blackLineBG2.gif" blackLineBG2.gif
+s274649180.155673
+e274649180.211042
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/blackLineBG2.gif
+xblackLineBG2.gif
+lSLF07#2@21"Copy blackLineBG2.gif274649180#274649180#0(0"0(0#0#64"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackLineBG2.gif2441166144#389"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackLineBG2.gif" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/blackLineBG3.gif" blackLineBG3.gif
+s274649180.157717
+e274649180.177276
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/blackLineBG3.gif
+xblackLineBG3.gif
+lSLF07#2@21"Copy blackLineBG3.gif274649180#274649180#0(0"0(0#0#64"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackLineBG3.gif2441166144#389"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackLineBG3.gif" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/blackLineBG4.gif" blackLineBG4.gif
+s275253758.626932
+e275253758.647748
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/blackLineBG4.gif
+xblackLineBG4.gif
+lSLF07#2@21"Copy blackLineBG4.gif275253758#275253758#0(0"0(0#0#64"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackLineBG4.gif2477935936#389"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackLineBG4.gif" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/blackLineBG5.gif" blackLineBG5.gif
+s274649746.840871
+e274649746.858649
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/blackLineBG5.gif
+xblackLineBG5.gif
+lSLF07#2@21"Copy blackLineBG5.gif274649746#274649746#0(0"0(0#0#64"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackLineBG5.gif2441166144#389"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackLineBG5.gif" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/blackWOutline.jpg" blackWOutline.jpg
+s279364411.930659
+e279364412.111322
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/blackWOutline.jpg
+xblackWOutline.jpg
+lSLF07#2@22"Copy blackWOutline.jpg279364411#279364412#0(0"0(0#0#65"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackWOutline.jpg2433158464#390"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/blackWOutline.jpg" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/bz2.icns" bz2.icns
+s279364411.935068
+e279364412.029755
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/bz2.icns
+xbz2.icns
+lSLF07#2@13"Copy bz2.icns279364411#279364412#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/bz2.icns2433158464#381"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/bz2.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/cab.icns" cab.icns
+s275588153.339110
+e275588153.464447
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/cab.icns
+xcab.icns
+lSLF07#2@13"Copy cab.icns275588153#275588153#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/cab.icns2477935936#381"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/cab.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/chm.icns" chm.icns
+s275588153.372629
+e275588153.492073
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/chm.icns
+xchm.icns
+lSLF07#2@13"Copy chm.icns275588153#275588153#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/chm.icns2477935936#381"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/chm.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/cpio.icns" cpio.icns
+s275588153.378213
+e275588153.502913
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/cpio.icns
+xcpio.icns
+lSLF07#2@14"Copy cpio.icns275588153#275588153#0(0"0(0#0#57"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/cpio.icns2477935936#382"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/cpio.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/deb.icns" deb.icns
+s275588153.388695
+e275588153.495978
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/deb.icns
+xdeb.icns
+lSLF07#2@13"Copy deb.icns275588153#275588153#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/deb.icns2477935936#381"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/deb.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/dmg.icns" dmg.icns
+s275588153.399908
+e275588153.507437
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/dmg.icns
+xdmg.icns
+lSLF07#2@13"Copy dmg.icns275588153#275588153#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/dmg.icns4371640#381"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/dmg.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/ez 001.icns" "ez 001.icns"
+s275254028.880713
+e275254029.000698
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/ez 001.icns
+xez 001.icns
+lSLF07#2@16"Copy ez 001.icns275254028#275254029#0(0"0(0#0#59"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez 001.icns2477935936#384"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez 001.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/ez bz2.icns" "ez bz2.icns"
+s275254028.871803
+e275254028.984458
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/ez bz2.icns
+xez bz2.icns
+lSLF07#2@16"Copy ez bz2.icns275254028#275254029#0(0"0(0#0#59"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez bz2.icns2477935936#384"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez bz2.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/ez gz.icns" "ez gz.icns"
+s275254028.876213
+e275254028.978693
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/ez gz.icns
+xez gz.icns
+lSLF07#2@15"Copy ez gz.icns275254028#275254029#0(0"0(0#0#58"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez gz.icns2477935936#383"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez gz.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/ez tar.icns" "ez tar.icns"
+s275254028.878496
+e275254028.935490
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/ez tar.icns
+xez tar.icns
+lSLF07#2@16"Copy ez tar.icns275254028#275254029#0(0"0(0#0#59"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez tar.icns2477935936#384"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez tar.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/ez zip.icns" "ez zip.icns"
+s275254028.874005
+e275254028.987781
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/ez zip.icns
+xez zip.icns
+lSLF07#2@16"Copy ez zip.icns275254028#275254029#0(0"0(0#0#59"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez zip.icns2477935936#384"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez zip.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/ez7zappBW.icns" ez7zappBW.icns
+s279364411.925840
+e279364412.004681
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/ez7zappBW.icns
+xez7zappBW.icns
+lSLF07#2@19"Copy ez7zappBW.icns279364411#279364412#0(0"0(0#0#62"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez7zappBW.icns2433158464#387"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez7zappBW.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/ez7zfiles.icns" ez7zfiles.icns
+s275254028.869693
+e275254028.977987
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/ez7zfiles.icns
+xez7zfiles.icns
+lSLF07#2@19"Copy ez7zfiles.icns275254028#275254029#0(0"0(0#0#62"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez7zfiles.icns2477935936#387"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ez7zfiles.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/gz.icns" gz.icns
+s279364411.935961
+e279364412.070697
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/gz.icns
+xgz.icns
+lSLF07#2@12"Copy gz.icns279364411#279364412#0(0"0(0#0#55"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/gz.icns2433158464#380"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/gz.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/hfs.icns" hfs.icns
+s275588153.450888
+e275588153.556471
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/hfs.icns
+xhfs.icns
+lSLF07#2@13"Copy hfs.icns275588153#275588153#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/hfs.icns2477935936#381"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/hfs.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/iso.icns" iso.icns
+s275588153.453593
+e275588153.563416
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/iso.icns
+xiso.icns
+lSLF07#2@13"Copy iso.icns275588153#275588153#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/iso.icns2477935936#381"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/iso.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/lzh.icns" lzh.icns
+s275588153.464577
+e275588153.563605
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/lzh.icns
+xlzh.icns
+lSLF07#2@13"Copy lzh.icns275588153#275588153#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/lzh.icns4371640#381"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/lzh.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/lzma.icns" lzma.icns
+s275588153.492202
+e275588153.569373
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/lzma.icns
+xlzma.icns
+lSLF07#2@14"Copy lzma.icns275588153#275588153#0(0"0(0#0#57"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/lzma.icns2477935936#382"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/lzma.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/mainApp.icns" mainApp.icns
+r0
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/msi.icns" msi.icns
+s275588153.496105
+e275588153.576709
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/msi.icns
+xmsi.icns
+lSLF07#2@13"Copy msi.icns275588153#275588153#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/msi.icns2477935936#381"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/msi.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/nsis.icns" nsis.icns
+s275588153.503037
+e275588153.512875
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/nsis.icns
+xnsis.icns
+lSLF07#2@14"Copy nsis.icns275588153#275588153#0(0"0(0#0#57"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/nsis.icns2477935936#382"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/nsis.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/par2" par2
+s279364412.032118
+e279364412.517881
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/par2
+xpar2
+lSLF07#2@9"Copy par2279364412#279364412#0(0"0(0#0#52"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/par22433158464#377"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/par2" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/par2.icns" par2.icns
+s277320676.197754
+e277320676.335751
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/par2.icns
+xpar2.icns
+lSLF07#2@14"Copy par2.icns277320676#277320676#0(0"0(0#0#57"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/par2.icns2477935936#382"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/par2.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/par2ic.icns" par2ic.icns
+s279364412.050208
+e279364412.075335
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/par2ic.icns
+xpar2ic.icns
+lSLF07#2@16"Copy par2ic.icns279364412#279364412#0(0"0(0#0#59"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/par2ic.icns2433158464#384"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/par2ic.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/rar.icns" rar.icns
+s279364411.984211
+e279364412.133074
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/rar.icns
+xrar.icns
+lSLF07#2@13"Copy rar.icns279364411#279364412#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/rar.icns2433158464#381"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/rar.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/rpm.icns" rpm.icns
+s275588153.513169
+e275588153.602739
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/rpm.icns
+xrpm.icns
+lSLF07#2@13"Copy rpm.icns275588153#275588153#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/rpm.icns2477935936#381"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/rpm.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/tar.icns" tar.icns
+s279364412.004808
+e279364412.144354
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/tar.icns
+xtar.icns
+lSLF07#2@13"Copy tar.icns279364412#279364412#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/tar.icns4371640#381"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/tar.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/udf.icns" udf.icns
+s275588153.556602
+e275588153.631036
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/udf.icns
+xudf.icns
+lSLF07#2@13"Copy udf.icns275588153#275588153#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/udf.icns2477935936#381"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/udf.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/unrar" unrar
+s279364412.029890
+e279364412.538961
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/unrar
+xunrar
+lSLF07#2@10"Copy unrar279364412#279364412#0(0"0(0#0#53"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/unrar2433158464#378"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/unrar" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/whiteBox.gif" whiteBox.gif
+s279364411.929251
+e279364411.984080
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/whiteBox.gif
+xwhiteBox.gif
+lSLF07#2@17"Copy whiteBox.gif279364411#279364411#0(0"0(0#0#60"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/whiteBox.gif2433158464#385"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/whiteBox.gif" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/wim.icns" wim.icns
+s275588153.564677
+e275588153.637163
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/wim.icns
+xwim.icns
+lSLF07#2@13"Copy wim.icns275588153#275588153#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/wim.icns2477935936#381"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/wim.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/xar.icns" xar.icns
+s275588153.566220
+e275588153.671397
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/xar.icns
+xxar.icns
+lSLF07#2@13"Copy xar.icns275588153#275588153#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/xar.icns2477935936#381"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/xar.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/EZ 7z.app/Contents/Resources/zip.icns" zip.icns
+s279364412.024853
+e279364412.190929
+r1
+xCpResource
+xbuild/Deployment/EZ 7z.app/Contents/Resources/zip.icns
+xzip.icns
+lSLF07#2@13"Copy zip.icns279364412#279364412#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/zip.icns2433158464#381"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/zip.icns" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources"0#
+
+CCpResource "build/Deployment/eZ 7z.app/Contents/Resources/001.icns" 001.icns
+r0
+
+CCpResource "build/Deployment/eZ 7z.app/Contents/Resources/7z.icns" 7z.icns
+r0
+
+CCpResource "build/Deployment/eZ 7z.app/Contents/Resources/7za" 7za
+r0
+
+CCpResource "build/Deployment/eZ 7z.app/Contents/Resources/blackBox.gif" blackBox.gif
+r0
+
+CCpResource "build/Deployment/eZ 7z.app/Contents/Resources/blackWOutline.jpg" blackWOutline.jpg
+r0
+
+CCpResource "build/Deployment/eZ 7z.app/Contents/Resources/bz2.icns" bz2.icns
+r0
+
+CCpResource "build/Deployment/eZ 7z.app/Contents/Resources/ez7zappBW.icns" ez7zappBW.icns
+r0
+
+CCpResource "build/Deployment/eZ 7z.app/Contents/Resources/gz.icns" gz.icns
+r0
+
+CCpResource "build/Deployment/eZ 7z.app/Contents/Resources/par2" par2
+r0
+
+CCpResource "build/Deployment/eZ 7z.app/Contents/Resources/par2ic.icns" par2ic.icns
+r0
+
+CCpResource "build/Deployment/eZ 7z.app/Contents/Resources/rar.icns" rar.icns
+r0
+
+CCpResource "build/Deployment/eZ 7z.app/Contents/Resources/tar.icns" tar.icns
+r0
+
+CCpResource "build/Deployment/eZ 7z.app/Contents/Resources/unrar" unrar
+r0
+
+CCpResource "build/Deployment/eZ 7z.app/Contents/Resources/whiteBox.gif" whiteBox.gif
+r0
+
+CCpResource "build/Deployment/eZ 7z.app/Contents/Resources/zip.icns" zip.icns
+r0
+
+CCpResource build/Deployment/Ez7z.app/Contents/Resources/001.icns 001.icns
+r0
+
+CCpResource build/Deployment/Ez7z.app/Contents/Resources/7z.icns 7z.icns
+r0
+
+CCpResource build/Deployment/Ez7z.app/Contents/Resources/7za 7za
+r0
+
+CCpResource build/Deployment/Ez7z.app/Contents/Resources/blackBox.gif blackBox.gif
+r0
+
+CCpResource build/Deployment/Ez7z.app/Contents/Resources/blackWOutline.jpg blackWOutline.jpg
+r0
+
+CCpResource build/Deployment/Ez7z.app/Contents/Resources/bz2.icns bz2.icns
+r0
+
+CCpResource build/Deployment/Ez7z.app/Contents/Resources/ez7zappBW.icns ez7zappBW.icns
+r0
+
+CCpResource build/Deployment/Ez7z.app/Contents/Resources/gz.icns gz.icns
+r0
+
+CCpResource build/Deployment/Ez7z.app/Contents/Resources/par2 par2
+r0
+
+CCpResource build/Deployment/Ez7z.app/Contents/Resources/par2ic.icns par2ic.icns
+r0
+
+CCpResource build/Deployment/Ez7z.app/Contents/Resources/rar.icns rar.icns
+r0
+
+CCpResource build/Deployment/Ez7z.app/Contents/Resources/tar.icns tar.icns
+r0
+
+CCpResource build/Deployment/Ez7z.app/Contents/Resources/unrar unrar
+r0
+
+CCpResource build/Deployment/Ez7z.app/Contents/Resources/whiteBox.gif whiteBox.gif
+r0
+
+CCpResource build/Deployment/Ez7z.app/Contents/Resources/zip.icns zip.icns
+r0
+
+CCreateUniversalBinary "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/MacOS/EZ 7z" normal "ppc i386"
+s279364412.812252
+e279364412.866646
+r1
+xCreateUniversalBinary
+x/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/MacOS/EZ 7z
+xnormal
+xppc i386
+lSLF07#2@89"CreateUniversalBinary "build/Deployment/EZ 7z.app/Contents/MacOS/EZ 7z" normal "ppc i386"279364412#279364412#0(0"0(0#0#56"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/ppc i3862433158464#444"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /usr/bin/lipo -create "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/ppc/EZ 7z" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/i386/EZ 7z" -output "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/MacOS/EZ 7z"0#
+
+CCreateUniversalBinary "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/MacOS/Ez7z" normal "ppc i386"
+r0
+
+CCreateUniversalBinary "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/MacOS/eZ 7z" normal "ppc i386"
+r0
+
+CLd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/i386/EZ 7z" normal i386
+s273879907.916767
+e273879909.314587
+r1
+xLd
+x/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/i386/EZ 7z
+xnormal
+xi386
+lSLF07#2@130"Link /Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/i386/EZ 7z273879907#273879909#0(0"0(0#0#0"2441166144#679"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    setenv MACOSX_DEPLOYMENT_TARGET 10.3    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment" "-F/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment" -filelist "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/i386/EZ 7z.LinkFileList" -mmacosx-version-min=10.3 -framework Cocoa -framework AppleScriptKit -prebind -o "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/i386/EZ 7z"0#
+
+CLd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/i386/Ez7z" normal i386
+r0
+
+CLd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/i386/eZ 7z" normal i386
+r0
+
+CLd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/ppc/EZ 7z" normal ppc
+s273879907.915538
+e273879909.314139
+r1
+xLd
+x/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/ppc/EZ 7z
+xnormal
+xppc
+lSLF07#2@129"Link /Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/ppc/EZ 7z273879907#273879909#0(0"0(0#0#0"2441166144#676"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    setenv MACOSX_DEPLOYMENT_TARGET 10.3    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment" "-F/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment" -filelist "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/ppc/EZ 7z.LinkFileList" -mmacosx-version-min=10.3 -framework Cocoa -framework AppleScriptKit -prebind -o "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/ppc/EZ 7z"0#
+
+CLd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/ppc/Ez7z" normal ppc
+r0
+
+CLd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/EZ 7z.build/Deployment/eZ 7z (Upgraded).build/Objects-normal/ppc/eZ 7z" normal ppc
+r0
+
+COSACompile "build/Deployment/EZ 7z.app/Contents/Resources/Scripts/EZ 7z.scpt" "EZ 7z.applescript"
+s279364411.260841
+e279364411.848938
+r1
+xOSACompile
+xbuild/Deployment/EZ 7z.app/Contents/Resources/Scripts/EZ 7z.scpt
+xEZ 7z.applescript
+lSLF07#2@25"Compile EZ 7z.applescript279364411#279364411#0(0"0(0#0#65"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/EZ 7z.applescript4854736#366"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U "EZ 7z.applescript" -x -o "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Resources/Scripts/EZ 7z.scpt" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/EZ 7z.applescript"0#
+
+COSACompile "build/Deployment/Ez7z.app/Contents/Resources/Scripts/EZ 7z.scpt" "EZ 7z.applescript"
+r0
+
+COSACompile "build/Deployment/eZ 7z.app/Contents/Resources/Scripts/EZ 7z.scpt" "EZ 7z.applescript"
+s280097631.893077
+e280097632.485413
+r1
+xOSACompile
+xbuild/Deployment/eZ 7z.app/Contents/Resources/Scripts/EZ 7z.scpt
+xEZ 7z.applescript
+lSLF07#2@25"Compile EZ 7z.applescript280097631#280097632#0(0"0(0#0#65"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/EZ 7z.applescript2516469872#366"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U "EZ 7z.applescript" -x -o "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/Scripts/EZ 7z.scpt" "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/EZ 7z.applescript"0#
+
+CProcessInfoPlistFile "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Info.plist" Info-EZ_7z__Upgraded_.plist
+s279364411.226069
+e279364411.260652
+r1
+xProcessInfoPlistFile
+x/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Info.plist
+xInfo-EZ_7z__Upgraded_.plist
+lSLF07#2@35"Process Info-EZ_7z__Upgraded_.plist279364411#279364411#0(0"0(0#0#75"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/Info-EZ_7z__Upgraded_.plist4371640#358"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    builtin-infoPlistUtility Info-EZ_7z__Upgraded_.plist -genpkginfo "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app/Contents/Info.plist"0#
+
+CProcessInfoPlistFile "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app/Contents/Info.plist" Info-EZ_7z__Upgraded_.plist
+r0
+
+CProcessInfoPlistFile "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Info.plist" Info-EZ_7z__Upgraded_.plist
+r0
+
+CStripNIB "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/English.lproj/MainMenu.nib"
+s280097184.605251
+e280097184.791233
+r1
+xStripNIB
+x/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib280097184#280097184#0(0"0(0#0#74"/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/English.lproj/MainMenu.nib2516469872#331"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /Developer/usr/bin/ibtool --write "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app/Contents/Resources/English.lproj/MainMenu.nib" --output-format human-readable-text "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/English.lproj/MainMenu.nib"0#
+
+CTouch "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app"
+s279364412.866777
+e279364412.885704
+r1
+xTouch
+x/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app
+lSLF07#2@80"Touch /Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app279364412#279364412#0(0"0(0#0#0"2433158464#156"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /usr/bin/touch -c "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/EZ 7z.app"0#
+
+CTouch "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/Ez7z.app"
+r0
+
+CTouch "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app"
+s280097632.486766
+e280097632.491177
+r1
+xTouch
+x/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app
+lSLF07#2@80"Touch /Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app280097632#280097632#0(0"0(0#0#0"2516469872#156"    cd "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z"    /usr/bin/touch -c "/Volumes/Woah/Documents/Programming/Xcode/EZ 7z/build/Deployment/eZ 7z.app"0#
+
